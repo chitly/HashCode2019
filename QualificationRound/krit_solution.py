@@ -55,12 +55,12 @@ for dataset in datasets:
     wf = open('./krit_test1.txt', 'w')
     print(dataset)
     print('=================')
-    max_all = 10000000
-    min_all = 0
+    max_all = 0
+    min_all = 9999
     sum_all = 0
 
-    max_v = 10000000
-    min_v = 0
+    max_v = 0
+    min_v = 9999
     sum_v = 0
     for i in range(len(v_pics)):
       # print(len(v_pics[i]['tags']))
@@ -68,11 +68,11 @@ for dataset in datasets:
       sum_all = sum_all + len(v_pics[i]['tags'])
       if(max_v < len(v_pics[i]['tags'])):
         max_v = len(v_pics[i]['tags'])
-      if(min_v < len(v_pics[i]['tags'])):
+      if(min_v > len(v_pics[i]['tags'])):
         min_v = len(v_pics[i]['tags'])
       if(max_all < len(v_pics[i]['tags'])):
         max_all = len(v_pics[i]['tags'])
-      if(min_all < len(v_pics[i]['tags'])):
+      if(min_all > len(v_pics[i]['tags'])):
         min_all = len(v_pics[i]['tags'])
     print('sum_v = ', sum_v)
     print('mean_v = ', sum_v/len(v_pics))
@@ -80,26 +80,26 @@ for dataset in datasets:
     print('min_v = ', min_v)
     print('=================')
 
-    max_h = 10000000
-    min_h = 0
-    sum_h = 0
-    for i in range(len(h_pics)):
-      # print(len(v_pics[i]['tags']))
-      sum_h = sum_h + len(h_pics[i]['tags'])
-      sum_all = sum_all + len(h_pics[i]['tags'])
-      if(max_h < len(h_pics[i]['tags'])):
-        max_h = len(h_pics[i]['tags'])
-      if(min_h < len(h_pics[i]['tags'])):
-        min_h = len(h_pics[i]['tags'])
-      if(max_all < len(h_pics[i]['tags'])):
-        max_all = len(h_pics[i]['tags'])
-      if(min_all < len(h_pics[i]['tags'])):
-        min_all = len(h_pics[i]['tags'])
-    print('sum_h = ', sum_h)
-    print('mean_h = ', sum_h/len(h_pics))
-    print('max_h = ', max_h)
-    print('min_h = ', min_h)
-    print('=================')
+    # max_h = 0
+    # min_h = 9999
+    # sum_h = 0
+    # for i in range(len(h_pics)):
+    #   # print(len(v_pics[i]['tags']))
+    #   sum_h = sum_h + len(h_pics[i]['tags'])
+    #   sum_all = sum_all + len(h_pics[i]['tags'])
+    #   if(max_h < len(h_pics[i]['tags'])):
+    #     max_h = len(h_pics[i]['tags'])
+    #   if(min_h > len(h_pics[i]['tags'])):
+    #     min_h = len(h_pics[i]['tags'])
+    #   if(max_all < len(h_pics[i]['tags'])):
+    #     max_all = len(h_pics[i]['tags'])
+    #   if(min_all > len(h_pics[i]['tags'])):
+    #     min_all = len(h_pics[i]['tags'])
+    # print('sum_h = ', sum_h)
+    # print('mean_h = ', sum_h/len(h_pics))
+    # print('max_h = ', max_h)
+    # print('min_h = ', min_h)
+    # print('=================')
 
     print('sum_all = ', sum_all)
     print('mean_all = ', sum_all/(len(h_pics)+len(v_pics)))

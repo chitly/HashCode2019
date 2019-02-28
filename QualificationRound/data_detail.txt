@@ -4,18 +4,18 @@ a_example
 =================
 sum_v =  3
 mean_v =  3.0
-max_v =  10000000
+max_v =  3
 min_v =  3
 =================
 sum_h =  5
 mean_h =  2.5
-max_h =  10000000
-min_h =  3
+max_h =  3
+min_h =  2
 =================
 sum_all =  8
 mean_all =  2.6666666666666665
-max_all =  10000000
-min_all =  3
+max_all =  3
+min_all =  2
 =================
 
 b_lovely_landscapes
@@ -28,13 +28,13 @@ b_lovely_landscapes
 =================
 sum_h =  1440000
 mean_h =  18.0
-max_h =  10000000
-min_h =  51
+max_h =  51
+min_h =  9
 =================
 sum_all =  1440000
 mean_all =  18.0
-max_all =  10000000
-min_all =  51
+max_all =  51
+min_all =  9
 =================
 
 c_memorable_moments
@@ -45,20 +45,20 @@ tag_length = 3,4
 
 c_memorable_moments
 =================
-sum_v =  4727
-mean_v =  18.908
-max_v =  10000000
-min_v =  28
+sum_v =  4740
+mean_v =  18.96
+max_v =  28
+min_v =  10
 =================
 sum_h =  4715
 mean_h =  9.43
-max_h =  10000000
-min_h =  14
+max_h =  14
+min_h =  4
 =================
-sum_all =  9442
-mean_all =  12.589333333333334
-max_all =  10000000
-min_all =  28
+sum_all =  9455
+mean_all =  12.606666666666667
+max_all =  28
+min_all =  4
 =================
 
 d_pet_pictures
@@ -69,20 +69,20 @@ tag_length = 3
 
 d_pet_pictures
 =================
-sum_v =  555659
-mean_v =  18.521966666666668
-max_v =  10000000
-min_v =  34
+sum_v =  555528
+mean_v =  18.5176
+max_v =  36
+min_v =  4
 =================
 sum_h =  301201
 mean_h =  10.040033333333334
-max_h =  10000000
-min_h =  19
+max_h =  19
+min_h =  1
 =================
-sum_all =  856860
-mean_all =  14.281
-max_all =  10000000
-min_all =  34
+sum_all =  856729
+mean_all =  14.278816666666666
+max_all =  36
+min_all =  1
 =================
 
 e_shiny_selfies
@@ -93,13 +93,13 @@ tag_length = 3
 
 e_shiny_selfies
 =================
-sum_v =  1498746
-mean_v =  37.46865
-max_v =  10000000
-min_v =  58
+sum_v =  1498675
+mean_v =  37.466875
+max_v =  58
+min_v =  18
 =================
-sum_all =  1498746
-mean_all =  37.46865
-max_all =  10000000
-min_all =  58
+sum_all =  1498675
+mean_all =  37.466875
+max_all =  58
+min_all =  18
 =================
