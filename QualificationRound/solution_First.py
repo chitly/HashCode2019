@@ -25,8 +25,8 @@ def get_score(slides):
     return score
 
 sol_folder = 'sort_num_tags_sol'
-datasets = ['a_example', 'b_lovely_landscapes', 'c_memorable_moments', 'd_pet_pictures', 'e_shiny_selfies']
-# datasets = ['d_pet_pictures']
+# datasets = ['a_example', 'b_lovely_landscapes', 'c_memorable_moments', 'd_pet_pictures', 'e_shiny_selfies']
+datasets = ['d_pet_pictures']
 
 max_score = {dataset: 0 for dataset in datasets}
 ref_ans = {dataset: [] for dataset in datasets}
@@ -57,9 +57,17 @@ for dataset in datasets:
             max_score[dataset] = score
             ref_ans[dataset] = slides
 
-for dataset in datasets:
-    wf = open('QualificationRound/{}/{}.txt'.format(sol_folder, dataset), 'w')
-    wf.write('{}\n'.format(len(ref_ans[dataset])))
-    for slide in ref_ans[dataset]:
-        wf.write('{}\n'.format(' '.join(slide['id'])))
-    wf.close()
+for i in range(len(slides)):
+    print(slides[i]['tags'])
+    if(i!=len(slides)-1):
+        middle = len(slides[i]['tags'].intersection(slides[i+1]['tags']))
+        left = len(slides[i]['tags']) - middle
+        right = len(slides[i+1]['tags']) - middle
+        print(left, middle, right, min(left,middle,right))
+
+# for dataset in datasets:
+#     wf = open('./{}/{}.txt'.format(sol_folder, dataset), 'w')
+#     wf.write('{}\n'.format(len(ref_ans[dataset])))
+#     for slide in ref_ans[dataset]:
+#         wf.write('{}\n'.format(' '.join(slide['id'])))
+#     wf.close()
