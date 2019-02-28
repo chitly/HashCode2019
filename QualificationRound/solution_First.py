@@ -24,33 +24,29 @@ def get_score_table(pics):
 
 def get_slides(h_pics, v_pics):
     get_num_tags = lambda pic: len(pic['tags'])
-    if len(v_pics) > 0:
-        sorted_v_pics = sorted(v_pics, key=get_num_tags)
-        partition = 100
+    sorted_v_pics = sorted(v_pics, key=get_num_tags)
+    v_slides = [merge(sorted_v_pics[2 * i], sorted_v_pics[2 * i + 1]) for i in range(len(sorted_v_pics) // 2)]
+    slides = sorted(h_pics + v_slides, key=get_num_tags)
 
-        top_tier_v_pics = sorted_v_pics[-len(sorted_v_pics) // partition:]
-        score_table = get_score_table(top_tier_v_pics)
+    partition = 20
+    top_tier = slides[-len(slides) // partition:]
+    score_table = get_score_table(top_tier)
         
-        seen_table = {top_tier_idx: 0 for top_tier_idx in score_table}
-        selected_id = set([0])
-        sorted_top_tier = [top_tier_v_pics[0]]
-        last_idx = 0
-        for i in range(len(top_tier_v_pics) - 1):
-            for j in range(seen_table[last_idx], len(top_tier_v_pics) - 1):
-                next_idx = score_table[last_idx][j][1]
-                if next_idx not in selected_id:
-                    sorted_top_tier.append(top_tier_v_pics[next_idx])
-                    seen_table[last_idx] = j
-                    selected_id.add(next_idx)
-                    last_idx = next_idx
-                    break
+    seen_table = {top_tier_idx: 0 for top_tier_idx in score_table}
+    selected_id = set([0])
+    sorted_top_tier = [top_tier[0]]
+    last_idx = 0
+    for i in range(len(top_tier) - 1):
+        for j in range(seen_table[last_idx], len(top_tier) - 1):
+            next_idx = score_table[last_idx][j][1]
+            if next_idx not in selected_id:
+                sorted_top_tier.append(top_tier[next_idx])
+                seen_table[last_idx] = j
+                selected_id.add(next_idx)
+                last_idx = next_idx
+                break
 
-        new_v_pics = sorted_v_pics[:-len(sorted_v_pics) // partition] + sorted_top_tier
-        v_slides = [merge(new_v_pics[2 * i], new_v_pics[2 * i + 1]) for i in range(len(new_v_pics) // 2)]
-        slides = sorted(h_pics + v_slides, key=get_num_tags)
-    else:
-        slides = sorted(h_pics, key=get_num_tags)
-    return slides
+    return slides[:-len(slides) // partition] + sorted_top_tier
 
 def get_score(slides):
     score = 0
@@ -94,17 +90,17 @@ for dataset in datasets:
             max_score[dataset] = score
             ref_ans[dataset] = slides
 
-for i in range(len(slides)):
-    print(slides[i]['tags'])
-    if(i!=len(slides)-1):
-        middle = len(slides[i]['tags'].intersection(slides[i+1]['tags']))
-        left = len(slides[i]['tags']) - middle
-        right = len(slides[i+1]['tags']) - middle
-        print(left, middle, right, min(left,middle,right))
+for dataset in datasets:
+    wf = open('QualificationRound/{}/{}.txt'.format(sol_folder, dataset), 'w')
+    wf.write('{}\n'.format(len(ref_ans[dataset])))
+    for slide in ref_ans[dataset]:
+        wf.write('{}\n'.format(' '.join(slide['id'])))
+    wf.close()
 
-# for dataset in datasets:
-#     wf = open('./{}/{}.txt'.format(sol_folder, dataset), 'w')
-#     wf.write('{}\n'.format(len(ref_ans[dataset])))
-#     for slide in ref_ans[dataset]:
-#         wf.write('{}\n'.format(' '.join(slide['id'])))
-#     wf.close()
+# for i in range(len(slides)):
+#     print(slides[i]['tags'])
+#     if(i!=len(slides)-1):
+#         middle = len(slides[i]['tags'].intersection(slides[i+1]['tags']))
+#         left = len(slides[i]['tags']) - middle
+#         right = len(slides[i+1]['tags']) - middle
+#         print(left, middle, right, min(left,middle,right))
