@@ -18,6 +18,7 @@
 
 
 from random import shuffle
+from statistics import variance
 
 def merge(pic_1, pic_2):
     return {
@@ -27,7 +28,7 @@ def merge(pic_1, pic_2):
 
 sol_folder = 'random_sol2'
 # datasets = ['a_example', 'b_lovely_landscapes', 'c_memorable_moments', 'd_pet_pictures', 'e_shiny_selfies']
-datasets = ['e_shiny_selfies']
+datasets = ['b_lovely_landscapes']
 
 for dataset in datasets:
     f = open('./{}.txt'.format(dataset))
@@ -62,8 +63,10 @@ for dataset in datasets:
     max_v = 0
     min_v = 9999
     sum_v = 0
+    vrr = []
     for i in range(len(v_pics)):
       # print(len(v_pics[i]['tags']))
+      vrr.append(len(v_pics[i]['tags']))
       sum_v = sum_v + len(v_pics[i]['tags'])
       sum_all = sum_all + len(v_pics[i]['tags'])
       if(max_v < len(v_pics[i]['tags'])):
@@ -78,33 +81,38 @@ for dataset in datasets:
     print('mean_v = ', sum_v/len(v_pics))
     print('max_v = ', max_v)
     print('min_v = ', min_v)
+    print('variance_v = ', variance(vrr))
     print('=================')
 
-    # max_h = 0
-    # min_h = 9999
-    # sum_h = 0
-    # for i in range(len(h_pics)):
-    #   # print(len(v_pics[i]['tags']))
-    #   sum_h = sum_h + len(h_pics[i]['tags'])
-    #   sum_all = sum_all + len(h_pics[i]['tags'])
-    #   if(max_h < len(h_pics[i]['tags'])):
-    #     max_h = len(h_pics[i]['tags'])
-    #   if(min_h > len(h_pics[i]['tags'])):
-    #     min_h = len(h_pics[i]['tags'])
-    #   if(max_all < len(h_pics[i]['tags'])):
-    #     max_all = len(h_pics[i]['tags'])
-    #   if(min_all > len(h_pics[i]['tags'])):
-    #     min_all = len(h_pics[i]['tags'])
-    # print('sum_h = ', sum_h)
-    # print('mean_h = ', sum_h/len(h_pics))
-    # print('max_h = ', max_h)
-    # print('min_h = ', min_h)
-    # print('=================')
+    max_h = 0
+    min_h = 9999
+    sum_h = 0
+    hrr = []
+    for i in range(len(h_pics)):
+      # print(len(v_pics[i]['tags']))
+      hrr.append(len(h_pics[i]['tags']))
+      sum_h = sum_h + len(h_pics[i]['tags'])
+      sum_all = sum_all + len(h_pics[i]['tags'])
+      if(max_h < len(h_pics[i]['tags'])):
+        max_h = len(h_pics[i]['tags'])
+      if(min_h > len(h_pics[i]['tags'])):
+        min_h = len(h_pics[i]['tags'])
+      if(max_all < len(h_pics[i]['tags'])):
+        max_all = len(h_pics[i]['tags'])
+      if(min_all > len(h_pics[i]['tags'])):
+        min_all = len(h_pics[i]['tags'])
+    print('sum_h = ', sum_h)
+    print('mean_h = ', sum_h/len(h_pics))
+    print('max_h = ', max_h)
+    print('min_h = ', min_h)
+    print('variance_h = ', variance(hrr))
+    print('=================')
 
     print('sum_all = ', sum_all)
     print('mean_all = ', sum_all/(len(h_pics)+len(v_pics)))
     print('max_all = ', max_all)
     print('min_all = ', min_all)
+    print('variance_all = ', variance(hrr + vrr))
     print('=================')
 
     # for i in range(len(pics)):

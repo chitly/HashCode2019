@@ -30,11 +30,13 @@ sum_h =  1440000
 mean_h =  18.0
 max_h =  51
 min_h =  9
+variance_h =  26.903136289203616
 =================
 sum_all =  1440000
 mean_all =  18.0
 max_all =  51
 min_all =  9
+variance_all =  26.903136289203616
 =================
 
 c_memorable_moments
@@ -45,20 +47,23 @@ tag_length = 3,4
 
 c_memorable_moments
 =================
-sum_v =  4740
-mean_v =  18.96
-max_v =  28
+sum_v =  4732
+mean_v =  18.928
+max_v =  27
 min_v =  10
+variance_v =  15.5530281124498
 =================
 sum_h =  4715
 mean_h =  9.43
 max_h =  14
 min_h =  4
+variance_h =  8.193486973947895
 =================
-sum_all =  9455
-mean_all =  12.606666666666667
-max_all =  28
+sum_all =  9447
+mean_all =  12.596
+max_all =  27
 min_all =  4
+variance_all =  30.70305473965287
 =================
 
 d_pet_pictures
@@ -69,20 +74,23 @@ tag_length = 3
 
 d_pet_pictures
 =================
-sum_v =  555528
-mean_v =  18.5176
+sum_v =  555838
+mean_v =  18.527933333333333
 max_v =  36
-min_v =  4
+min_v =  5
+variance_v =  27.622607149127195
 =================
 sum_h =  301201
 mean_h =  10.040033333333334
 max_h =  19
 min_h =  1
+variance_h =  18.098433946687113
 =================
-sum_all =  856729
-mean_all =  14.278816666666666
+sum_all =  857039
+mean_all =  14.283983333333333
 max_all =  36
 min_all =  1
+variance_all =  40.87155132557765
 =================
 
 e_shiny_selfies
@@ -93,13 +101,15 @@ tag_length = 3
 
 e_shiny_selfies
 =================
-sum_v =  1498675
-mean_v =  37.466875
+sum_v =  1498935
+mean_v =  37.473375
 max_v =  58
 min_v =  18
+variance_v =  58.31574900310008
 =================
-sum_all =  1498675
-mean_all =  37.466875
+sum_all =  1498935
+mean_all =  37.473375
 max_all =  58
 min_all =  18
+variance_all =  58.31574900310008
 =================
