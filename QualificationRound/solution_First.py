@@ -28,7 +28,7 @@ def get_slides(h_pics, v_pics):
     v_slides = [merge(sorted_v_pics[2 * i], sorted_v_pics[2 * i + 1]) for i in range(len(sorted_v_pics) // 2)]
     slides = sorted(h_pics + v_slides, key=get_num_tags)
 
-    partition = 20
+    partition = 10
     top_tier = slides[-len(slides) // partition:]
     score_table = get_score_table(top_tier)
         
