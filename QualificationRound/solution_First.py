@@ -19,15 +19,16 @@ def get_score_table(pics):
             score_table[i].append((score, j))
             score_table[j].append((score, i))
     for idx in score_table:
-        score_table[idx].sort()
+        score_table[idx].sort(key=lambda x: -x[0])
     return score_table
 
 def get_slides(h_pics, v_pics):
     get_num_tags = lambda pic: len(pic['tags'])
     if len(v_pics) > 0:
         sorted_v_pics = sorted(v_pics, key=get_num_tags)
+        partition = 100
 
-        top_tier_v_pics = sorted_v_pics[-len(sorted_v_pics) // 100:]
+        top_tier_v_pics = sorted_v_pics[-len(sorted_v_pics) // partition:]
         score_table = get_score_table(top_tier_v_pics)
         
         seen_table = {top_tier_idx: 0 for top_tier_idx in score_table}
@@ -44,7 +45,7 @@ def get_slides(h_pics, v_pics):
                     last_idx = next_idx
                     break
 
-        new_v_pics = sorted_v_pics[:-len(sorted_v_pics) // 100] + sorted_top_tier
+        new_v_pics = sorted_v_pics[:-len(sorted_v_pics) // partition] + sorted_top_tier
         v_slides = [merge(new_v_pics[2 * i], new_v_pics[2 * i + 1]) for i in range(len(new_v_pics) // 2)]
         slides = sorted(h_pics + v_slides, key=get_num_tags)
     else:
