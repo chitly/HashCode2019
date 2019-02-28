@@ -1,0 +1,105 @@
+a_example
+
+a_example
+=================
+sum_v =  3
+mean_v =  3.0
+max_v =  10000000
+min_v =  3
+=================
+sum_h =  5
+mean_h =  2.5
+max_h =  10000000
+min_h =  3
+=================
+sum_all =  8
+mean_all =  2.6666666666666665
+max_all =  10000000
+min_all =  3
+=================
+
+b_lovely_landscapes
+80000
+H = 80000
+V = 0
+tag_length = 5
+
+b_lovely_landscapes
+=================
+sum_h =  1440000
+mean_h =  18.0
+max_h =  10000000
+min_h =  51
+=================
+sum_all =  1440000
+mean_all =  18.0
+max_all =  10000000
+min_all =  51
+=================
+
+c_memorable_moments
+1000
+H = 500
+V = 500
+tag_length = 3,4
+
+c_memorable_moments
+=================
+sum_v =  4727
+mean_v =  18.908
+max_v =  10000000
+min_v =  28
+=================
+sum_h =  4715
+mean_h =  9.43
+max_h =  10000000
+min_h =  14
+=================
+sum_all =  9442
+mean_all =  12.589333333333334
+max_all =  10000000
+min_all =  28
+=================
+
+d_pet_pictures
+90000
+H = 30000
+V = 60000
+tag_length = 3
+
+d_pet_pictures
+=================
+sum_v =  555659
+mean_v =  18.521966666666668
+max_v =  10000000
+min_v =  34
+=================
+sum_h =  301201
+mean_h =  10.040033333333334
+max_h =  10000000
+min_h =  19
+=================
+sum_all =  856860
+mean_all =  14.281
+max_all =  10000000
+min_all =  34
+=================
+
+e_shiny_selfies
+80000
+H = 0
+V = 80000
+tag_length = 3
+
+e_shiny_selfies
+=================
+sum_v =  1498746
+mean_v =  37.46865
+max_v =  10000000
+min_v =  58
+=================
+sum_all =  1498746
+mean_all =  37.46865
+max_all =  10000000
+min_all =  58
+=================
