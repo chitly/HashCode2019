@@ -1,0 +1,1001 @@
+1000
+V 7 w52 17 mz1 1l 8b1 g6 jb1
+H 7 wt1 zb1 rn 6c 81 gr c51
+V 8 001 201 81 g11 d7 652 4q b6
+H 10 ms 0c 8b1 l3 g02 qz1 wd1 qp1 351 21
+H 12 9q1 2m1 ld1 t pb 6r1 892 sj1 rn 4t1 v81 z41
+H 12 822 882 tc1 51 071 771 n3 fg1 7d1 332 3b1 bn1
+V 10 lb j62 r51 pz1 502 9s 14 9c1 rx 291
+H 8 jp 2x1 2m1 5p1 dm1 k6 wg1 tc
+V 14 c61 l51 3t k6 lf 1 561 m9 911 dd1 z9 cd r5 76
+H 11 cc s12 391 471 zw qg d42 3x 762 j82 r42
+V 13 hd v8 b82 692 s3 h8 ft1 w6 fj tb2 s1 582 r02
+H 12 0t1 wn1 kc2 nl tx1 4q1 7n1 h61 kn t 991 p72
+V 11 3d1 721 711 cl 0l1 wc2 v61 6t 001 t51 3b
+H 13 0n1 nf1 tx sr1 622 m7 5k1 h61 86 b62 t11 g62 4t
+H 5 fj hc1 1n1 9z1 622
+V 14 lb1 dp1 6d1 jq 82 g7 452 d7 c5 d91 zg1 z21 9n1 2w1
+H 5 d8 f01 r2 8b1 vh
+H 5 pd qp1 dz1 2m1 cx
+V 10 cb2 13 572 5r1 r82 332 l21 f7 sv1 271
+H 13 k6 d7 hn 1c 4w hb1 t v1 c01 qb1 7z1 dg1 nb2
+V 14 cl 8q xr vw 5x 112 j21 vr vc2 3g vs1 0g1 rh1 qc
+H 11 16 4j1 v9 332 lz1 742 0v1 fl1 gb1 561 gw1
+H 14 r42 hr1 402 b02 nh1 sq1 b4 dn1 q3 z02 p82 471 v71 h61
+H 12 952 f2 k22 0d2 g22 t11 1s 1c 74 zt1 tm 402
+H 8 tj p62 xg 691 711 x7 13 q91
+H 10 f42 vf vb1 661 nn 1v1 r51 j91 w 2m
+V 13 9d1 g82 z91 g92 9x v1 mr 2m 3m1 0c jr1 jc 3q
+V 14 361 692 gc nl1 bb1 l51 pr1 n12 x1 r82 c41 x71 hh1 f9
+H 14 bn1 rn 4v1 m9 f2 6c dp 6r k31 5w1 zg kg1 x2 r02
+H 8 gb2 8f1 bb2 dn h1 s92 xf1 r21
+V 11 z3 1q 7j r21 221 hn bs pb2 lg1 3r1 08
+V 13 4c2 kc1 sb2 m7 4m1 73 6w 1c 0j vs1 7q t01 542
+V 11 4g1 291 692 n12 412 l42 g cc1 q4 5b q01
+H 5 96 vt w22 c31 v9
+H 12 nr 9d1 vc2 bv 351 9s1 6t v32 882 z91 r2 7q1
+H 11 d3 3b1 6r1 3k 0b1 34 m02 vr 35 vv m81
+V 9 qz1 lg1 242 v61 261 tw1 ck rq vh
+V 7 86 6z1 q32 s7 c2 271 jj1
+H 13 js1 dp1 2t 3c1 b5 7w db2 f32 dr v9 hp1 sg nl
+H 9 rq1 h1 qz 4w1 v1 dq gt1 401 vc2
+V 11 d32 dn1 x1 lz1 r51 v7 bv fx 6h q52 sf
+H 10 q31 1g qq1 r92 gb2 qq 531 z91 rk 422
+H 5 2f p7 88 hc j9
+H 5 9z1 rs1 kr1 d7 zk1
+V 13 7k1 jb1 412 4r gp1 4x 6f1 1l1 h3 3m 0c 5l 13
+H 7 fj hg1 ls1 0t1 gc zc2 qb2
+V 8 921 kt1 fr1 qq 8l 1s 091 x41
+V 9 qz1 vd1 zn 29 q3 rx1 dn1 d 76
+H 11 b9 3c1 md 78 r82 k22 d7 wz pg1 t9 lm
+V 12 vk kc1 d xw bn tw1 b02 x6 z91 kv1 pc 512
+H 13 682 3g 4b2 31 l2 bd1 r11 pc1 gn 6r1 xf1 rr r1
+V 14 z02 vc1 tb2 kr1 8h1 w52 4t1 n12 z8 6t 1j1 gt1 4x 5w1
+V 12 f71 sg cf 3b1 v41 h8 bc1 9s1 25 cc zn v81
+V 5 x92 19 jl l6 332
+V 5 jt f01 q11 js1 zt1
+V 8 d vp 181 0j1 pg1 pr1 7p1 b92
+H 4 sq1 dg1 p12 8t1
+V 7 2t m72 x71 76 vn1 b11 w81
+V 7 6x1 0s q62 sp1 cl1 84 s21
+V 8 qb2 c1 vc b62 n4 9c1 hc1 zk1
+H 9 v02 r42 h81 l82 241 hn gp1 s12 m2
+V 9 2n1 nj qb1 fk gn fz1 1q x4 qb2
+H 8 w52 8b1 qb xh r5 p32 5f t
+H 8 n92 kf 4f 9d1 0s1 l72 1l1 kc1
+V 6 141 wj1 561 f21 011 512
+V 9 ht1 0t1 p2 f21 351 zj r02 cl rv
+V 7 v32 z02 661 hn dn1 2l1 f6
+V 13 2m1 vs1 5r1 pb2 141 sv kc1 lb1 81 k31 nf n02 jf1
+V 6 tt rm1 dg kr1 kh 291
+V 6 k 65 nl tw1 9j lz1
+H 11 882 4q1 js1 5r1 gj g71 pc vk kk1 19 34
+V 8 3t fr1 001 qx gt1 bm hn1 002
+V 12 6q g7 c4 h42 t12 hk1 531 nb2 71 q8 x71 651
+H 9 z9 nv 6x vh 221 5l px n3 7d
+H 6 hc1 pn1 v qh j41 hs1
+H 7 hv 6r1 qs 0k1 g32 r42 6t
+V 9 2m1 3g 4x1 sq1 462 qx f12 86 rt
+H 7 r51 db2 r92 3n 76 z42 512
+H 14 r41 mc f21 h82 4r j41 lb1 h11 sl 8w mj pb 1z1 2z
+V 5 8c 912 12 j6 pd
+V 11 63 fb1 x51 cl ww 7d1 wg1 jl h6 9k n81
+H 12 h8 532 n12 pd b22 qb2 x71 qf zz1 h1 sw1 c51
+V 7 8l1 3c1 x01 1q r12 qc 762
+H 14 sm 5f1 191 032 q3 cl mn1 jw1 ls1 lr1 gn rh gr jr1
+V 5 fr1 tf1 691 qv1 m81
+V 7 dg 691 44 t4 232 pb xv
+V 6 p32 j4 3j dw1 dn j41
+H 13 21 x52 qb 6d2 9d1 j41 lr m1 ht1 3p g71 dg1 38
+V 14 qq v61 81 351 rj1 np1 971 h42 12 k22 212 0j1 932 pt1
+H 12 r42 b5 hr q91 7v 9k v11 jn1 d52 0c sh1 8f1
+H 12 1v tb2 m1 351 h1 jr1 s02 691 qv1 rn d82 5v1
+V 14 hh1 0g x52 bv 381 jt 6r1 nt qh lz1 dn1 m7 gt1 w11
+H 12 9k vs1 4c2 l9 vl1 z12 691 9s1 qx 0f1 86 4d1
+V 11 f42 532 pc1 7q1 3g 221 ff 0s 58 9h mq
+V 14 zw l52 vc1 541 4c2 b01 7r 5j n91 hr t72 bm zr1 tp1
+V 9 qk1 kc1 tm 0c rn l6 l31 r02 3c1
+V 9 45 pn1 dp1 371 572 tw1 0n vj tk1
+V 5 z02 7r1 bn1 m9 3k
+H 11 z21 c2 1s kt1 vk h5 491 8t1 09 rk rb
+V 12 1s 3r1 982 13 711 f42 n2 2m1 fn 221 wb2 x01
+H 8 v j41 xp1 vk cf z42 dd1 q91
+V 13 v9 gp1 x12 nj 5w1 4x1 wg m52 55 st nl zq 851
+V 9 8t1 471 r91 0l1 3k ss1 4d2 161 h42
+H 12 l72 55 zs d62 kt1 j8 vt1 mc1 xf1 tb1 q52 cv1
+V 5 qp qk1 t91 jb1 hc
+V 13 7d1 f12 b7 qb2 t9 882 3m g62 nd 4x 41 jl 76
+H 11 672 h52 k6 bd1 5v1 f01 rk hz 9z1 h22 56
+H 6 nm gq1 f22 l6 9h sr1
+V 14 6c t82 kb1 4d1 g6 wp1 tm hn jg1 4g1 74 6n1 l72 922
+H 14 fk1 pr1 zn w81 l2 pn1 881 f2 2s 242 0h1 q91 wb 3m
+H 6 fc2 d7 481 qm1 021 7j1
+H 10 qc 9w1 g7 qk1 3p cl 991 2m l9 xz1
+H 6 tn g7 zt1 hc1 911 xf
+H 14 b62 8n 691 sq 9j1 sv1 q81 td c61 9d1 l ld l6 8h
+V 14 tr d7 q6 412 db2 rx 2h1 4m1 f01 bt fj1 bk 1j1 hn
+V 11 xm wd1 7c2 hc1 vh 361 8g1 8l1 5b1 gb2 jx1
+V 8 dp 86 r82 pb 0c1 711 mt1 cw1
+V 6 1w 4x1 g71 931 wg1 fj
+V 14 cc nj xf1 762 mz1 21 39 721 1b2 lb b7 2c1 v1 651
+V 7 vf 332 001 xc wg1 t21 jb
+H 10 38 m9 zm1 r1 nf rh 6k1 3x1 zg kc1
+H 7 d2 q01 r3 3b1 pp1 0f1 h8
+H 4 3q pz f1 zk1
+V 9 hc dc1 fx zm1 b02 342 vj1 5q 29
+V 10 bg1 3p z61 jk1 212 1 r51 6z 602 pf1
+H 14 x7 7n1 c52 h42 2m1 692 q91 rt x fz1 dq1 8p x71 2m
+V 9 711 nm1 r42 0p1 7j1 8t1 nb2 dg r5
+H 14 g vq1 jj1 3g w52 c92 m1 gj 0b 0g1 2m1 zb hh1 m9
+V 8 d 3j1 z9 0c qb2 4d1 032 2c
+V 11 511 dn1 3p 391 dm1 2n mn 221 342 55 6l
+V 12 v9 st1 z82 zt1 xp 11 89 991 s71 wq1 4g t82
+V 7 jb1 zr cl kq x82 db2 6t
+H 6 fm1 w02 8q 771 tn wg1
+V 12 332 pl1 771 lz1 sk1 kf 452 gz rt 88 n62 qf
+V 11 9k 8q1 8h1 4x1 8h k41 ct x41 c21 g71 t9
+H 5 rq1 cq1 gs1 vh v51
+H 7 l81 kr1 0c dz1 h8 1s p6
+V 12 dp1 1g 8l nf hz 192 3q lg1 lr1 pb2 s61 v02
+V 12 622 cl l42 wb1 7t qz1 3j1 rt dz1 h42 3x1 z9
+H 12 ht1 zf1 6z zt1 4w l 991 fc2 k9 zn v21 q41
+H 8 r5 m52 kt1 2r1 1s 991 9d1 fw
+H 5 dp xf1 dp1 3q 9v
+H 9 t4 k82 hv rk1 vc1 0w1 zh nt1 c11
+V 8 9k bv1 6z1 pg1 l31 hc1 kv1 062
+V 11 5d1 9q1 1x 0b2 512 cv 061 fz1 vq1 wt1 jt
+H 13 3c1 xz w11 jb1 xm1 991 r51 t5 86 5p1 g11 f12 5w1
+V 10 8h 8l v81 tb1 lc1 0t1 7d r2 j91 711
+V 11 g7 mv 13 1q kb1 381 871 k22 qz1 zt1 7n1
+H 12 jb2 9n 0f1 l72 882 1v1 bj q3 tj1 d51 n12 rx
+H 13 6l1 vr z22 n4 651 fz1 jw mr1 dv 0z v9 qz bd1
+V 13 z11 59 9 9d1 q01 242 z82 872 b02 212 wg1 g71 pc
+V 10 jw1 gj1 kc1 692 7n1 3w 302 dp1 x41 602
+V 5 m7 rk c61 v 7s1
+V 13 4x 462 7q1 881 3p1 b7 p32 j82 1l1 vs1 9k rl qh
+H 14 n22 cn qf tm 912 jr1 hk1 3h pn1 xz 4q1 34 j91 zz
+V 13 z22 tk1 38 8g1 1l1 pc1 k31 dg 7d rr 3c1 q12 ht1
+V 11 64 xf1 311 h11 sd1 m9 1j 692 pc1 kv1 5b2
+V 11 z5 zk1 td 4c1 hq h8 lz1 051 g7 r02 802
+V 7 rs fr1 h02 9h xb 21 8b
+H 10 3b1 xf1 c2 t6 zq1 711 gt1 82 74 561
+V 9 d41 1w pg1 q01 t9 982 m6 tz1 bm1
+V 7 7p1 d41 002 74 tc 462 xl
+V 14 t72 x71 mc2 q1 km 4x gj r82 dp1 q3 532 h11 sp cl
+V 9 r02 2h xb2 4x1 z61 762 3h p62 m52
+H 6 c61 jq1 j22 4x 21 wz
+V 10 lm 0l1 m7 q01 c21 v8 r1 m5 nj m61
+H 12 2x1 d72 k31 8j 052 39 kr1 002 8c1 b12 0j1 3t
+H 11 mr1 t2 mh ld1 792 cc 6d 431 t sb1 dk
+V 9 082 d7 v82 0t1 q01 4g zr f9 0c
+V 14 951 gb2 dn1 m42 hj1 k51 431 r51 gc 1s hg1 v7 k9 kr1
+H 6 3k 692 x82 l71 qq1 342
+V 9 d7 gj 8l kf 7p dn1 qs b9 7d1
+V 9 xf1 rz1 gw1 jl 6j1 8l1 vb 9j1 bv1
+V 10 l9 842 lv1 3w nm kr1 pc1 cm ks1 7d1
+H 7 0f1 w6 381 zl m9 dm1 m41
+V 6 142 5p1 h42 vc2 l6 7q1
+H 6 x51 6r cn1 wg1 4x 5w1
+H 8 gn1 2b1 w11 911 d4 nj hb1 td1
+H 9 hk1 dd1 zw 4l1 d41 c11 kc1 pd vb2
+H 14 r51 l72 x41 vv1 002 q81 zp1 pq lm jx ms 9k js1 m7
+V 5 2x1 wz1 b41 cj 361
+H 13 261 z22 31 tb1 dp nn1 kr1 z02 nw rm bf1 dn1 mn
+V 11 sw 3c1 lz gp1 8l1 hb1 z9 ms bv1 881 3k
+V 14 q3 92 g7 6v1 762 3g 2t cw1 4z 8x1 m42 7c jj1 7x1
+H 7 s5 zw nl 5f1 p62 rn1 bs
+V 6 33 nl db2 8h1 bd lk
+H 7 55 t81 jp sk 6k td x
+H 13 7s1 6t 481 13 wn1 zw gb 3q bj rh1 l31 rd q92
+V 11 q21 l3 81 7q1 p72 74 s9 8h1 dw 19 jx1
+H 10 d82 dg1 pc pd 6c kf pc1 6z 1 mz
+V 5 ct1 18 6r1 hr sq
+V 6 zl l72 h42 942 l9 c81
+H 5 6c hk1 02 98 882
+H 8 pc1 b72 8l1 x71 zq1 z21 dg fb1
+H 5 tf1 x41 z02 l72 07
+V 13 gn 092 p5 rn 0d2 3g 7p1 002 r51 5c 6h1 9h fc
+H 14 k92 fz1 f71 1l1 6z xn v8 vk t11 3w jf sw c61 j41
+H 14 j3 hn 8l1 72 5j1 cv1 zb v32 3m qt 5f1 bm h81 h1
+V 9 7d1 141 fc2 n41 6z 63 hh1 m81 sr1
+V 10 b5 x71 h42 r52 ts1 p21 55 q81 8b1 lv1
+V 13 tw1 w11 ht 74 z9 dz c2 q02 0k hr gc n4 m
+H 13 s81 422 0f1 9c qc h8 t82 0c2 1w1 cp 8x d91 pc
+H 11 412 pc t8 bd1 vc1 881 kf1 3l v32 z82 w
+H 9 v7 131 gp 7n1 7w wg1 332 z61 v9
+V 14 h82 4r n82 291 qz r02 lj 83 gn 991 x51 l72 zk1 6r1
+H 6 d62 ts1 8l1 512 462 qx
+V 7 cl bj 9h1 m7 5g1 fj 1q
+V 5 zg cn1 wd1 802 nm
+H 11 hp1 rl1 dx1 7w dz1 vh 431 rc 2d gb2 6z1
+H 7 l72 l51 t mf hg1 vr 181
+H 5 33 rr 4d2 s2 c6
+H 13 6d2 qq z22 wl1 3p 3w1 5r1 kd1 nl b5 p3 m42 sv1
+H 8 nm 2g1 381 981 t52 8m f31 9k
+H 8 6f 1m1 pg1 8b1 76 cv1 jk 8w
+V 7 v8 k82 6v1 z42 fb1 wz 41
+V 7 0f1 hg1 x72 p6 jb1 j82 mf
+H 13 g7 1w v7 jx1 d41 762 zv1 w51 7c2 n4 0t1 r1 tm
+H 14 13 qf r42 2m1 sb t31 1l dn1 47 m1 qz1 d92 5f1 p91
+V 8 g62 bn1 js1 vd r82 m02 wv 38
+H 14 252 bm t21 rv vb 0f1 c6 0j1 ck 0b1 nl1 w51 hh1 4h1
+H 5 vf q01 fq1 d51 rk
+V 5 78 791 532 471 z21
+H 8 902 dc f2 8b1 rm 032 bt vb
+V 8 8n1 hs s22 ht1 361 j9 j41 9l
+V 7 jw1 g71 bm 7v jb1 q01 j41
+H 9 38 9k ww lm rt sq1 sw1 rr pb
+V 9 4x jl 9j1 lm 381 221 sc2 672 bz1
+V 10 n81 k6 412 3w rt1 x2 3c mj1 001 qb2
+H 12 dg1 fz1 2x1 zx1 h21 zk1 nl kj 181 001 g71 fc1
+H 9 3t z72 zm1 3m c7 qz1 9k fj dv
+H 6 t6 7d c21 h7 cl 6z
+V 12 7d 031 532 5v1 dd1 191 861 462 292 x01 gb2 t4
+H 9 j8 9s1 1k1 6b2 jt 6q1 dv d32 lr
+H 9 b21 gp1 1v1 g2 c21 671 dp 6d2 bq1
+V 9 141 9c1 r1 qb2 581 x9 c6 4x z22
+H 6 s7 gc tc1 38 jl lb1
+V 12 v1 452 rb2 gn 8t1 862 sh 7q1 161 fg1 82 sw
+V 6 r42 rc1 z02 vq1 vs1 9x1
+V 9 452 s62 381 vf h42 m7 nh dp 8w
+H 7 qs 2m 531 881 gp1 v1 j82
+H 8 g7 m41 0l1 nw 1q 511 cq 5g
+H 14 b02 6z1 rr 1j1 p31 q92 19 fz1 bn1 j31 fd1 9c1 v32 m02
+V 14 tb1 802 5c2 sr1 911 w01 hs1 sj1 3b 711 q81 td tl 2g
+V 13 h1 mj1 632 ft dn 391 n12 3k 452 f22 f42 zc2 5r1
+V 10 lb1 b51 hp1 4b1 l9 2m1 3x1 xs1 n12 6d2
+H 10 wq fh1 w5 4d2 w2 68 0f1 1v1 rr 15
+V 7 471 66 8l1 181 072 34 7c1
+H 13 2p 331 66 7d1 w11 sw f71 192 md 5w1 m1 9s1 711
+V 7 r82 zk1 882 pc kf1 f01 7c2
+V 14 tc1 4r w71 76 jx1 9z1 xx1 5f1 tv x01 jr1 hw1 h11 091
+V 9 tk s2 qf1 s51 4c2 0w1 vh 5d 86
+H 10 gb2 d62 b22 3m gn qv jc f2 001 h61
+V 10 912 7b1 qs 611 w 1p1 jt z21 711 412
+V 5 fv 0b t21 kr1 8h
+H 13 2 qz1 qq l62 3w 6z1 63 m4 kf t11 h11 bf1 31
+H 9 7d1 p41 1v1 rv 112 m1 8n wd1 5w1
+V 13 361 362 3m x4 05 pc2 5r1 hj qv tm1 x1 3t 672
+V 7 sq z02 3c lq v1 pc1 k31
+H 6 v91 mh 33 3p 9h 231
+V 11 f21 6p hn qv db2 7n1 fq 702 861 wz 86
+H 14 8 zn1 nf 86 xg 0j1 8l qx p62 ld1 j2 jb1 33 gn
+H 9 b5 j91 jc 6d1 361 k7 jw1 f12 452
+V 14 9d1 j82 f71 f21 n4 hr c72 39 l72 z22 n71 gn 1v1 3c1
+V 14 66 9s1 m3 161 v7 s92 qk s31 v61 nf xj1 hb1 qz1 xq
+V 6 c21 cl1 m7 np rp 4m1
+H 11 tn1 vk 4c2 l6 351 ld1 gj1 h52 34 gq 5w1
+V 9 rr 8j st v32 ps pq 4d1 r42 l71
+H 9 2c bj q52 tk1 lr1 sg z02 7d1 v8
+H 5 zn 342 81 x01 0l1
+V 7 pb2 pn1 4x 9z1 b5 r22 5s
+V 12 7b tf nl1 5w1 gt1 qv pb2 6m ld1 cd1 4d1 911
+V 8 l4 5v 74 l6 xq fz1 qv ld1
+H 10 221 tb2 z91 7p 561 4x1 ht1 8t1 881 ss1
+V 10 ft w11 nr1 vc1 j82 8c2 0g1 21 141 3b1
+H 8 d22 d82 cw1 tw1 r7 w52 s51 z61
+H 13 ht1 jj 882 vr 3m jt n9 242 9d1 js1 jr1 zg qq
+H 5 h01 hc 55 771 rp
+H 13 f42 8h1 7h h11 63 dg m2 3f1 851 mf 452 hq1 3g1
+H 9 mt1 4h1 hh1 sf1 x61 0l 3j1 1 vn1
+H 9 g11 r51 t11 cn1 6w st zw pd zl
+V 8 3q1 7p1 0f1 m81 s3 d11 6g1 13
+H 12 dg1 9n 181 5p1 651 q91 5v1 gp1 t21 532 q7 zr
+H 5 jw1 1h nh qz bj
+H 8 5v1 bv fr1 qv 552 4w t6 361
+H 9 sj1 3w 5s1 s6 vz 3g 88 s31 bv
+V 11 vs1 782 ss1 vc2 wd1 0s 612 nf kc1 jr 3r1
+H 14 tw1 rt tr m9 lb1 d62 h11 x1 2x1 cv1 l72 8w k6 sj1
+H 13 z21 4x j82 gj m42 0s tn mn ws vm1 wm1 b62 sv1
+V 9 hr g62 t21 b62 cb bm f01 0c r61
+V 14 4r s21 lm ts1 zm1 g12 tg1 0f1 82 n81 cg 462 t61 222
+V 10 0q jj p62 dr1 511 311 881 m81 pn1 991
+V 6 qp1 t11 s42 21 nj dn1
+H 11 81 kp 882 cv1 911 t21 p1 3x1 pt 202 kn1
+H 6 fc2 w81 j91 sz f51 sp
+H 14 j12 wr1 k71 4t1 sc2 dh 6c2 js1 pf nz 6w xf1 f91 55
+V 6 582 dn 9j1 572 dd1 bz1
+H 12 kb2 kr1 7z w41 fr1 gb2 g42 n71 lz1 hr 8c1 3j1
+V 11 d02 4c2 82 sg1 nw1 b4 df q81 n51 db2 762
+H 7 tm hc1 0t1 zb1 hb1 901 t
+H 9 55 qt 6c c5 hh1 0l1 0p1 wh1 cc
+H 13 6m d41 311 sh1 cf nt 692 c51 kf hr st 471 hc
+H 13 tc2 971 xl1 x02 3t l31 ss1 dg 042 141 cw1 tb2 ms
+H 12 6r 2p 232 bn1 641 131 dp1 hn d1 0j1 kf nj
+H 7 9c2 bj w7 pr1 361 sq mg
+V 12 l21 c61 tw1 3p nf l01 34 z72 t82 g12 291 n
+H 11 b12 7v k91 sw n4 211 db2 zj sq1 h9 f12
+V 5 6z 181 76 9p zc1
+V 12 7q1 8 gn1 z42 3w v7 c11 p9 6z ms 292 q02
+H 5 fb2 9w 561 w92 2r1
+H 8 bv z1 jz 221 d22 vs1 pc1 2z1
+V 6 x41 9j1 ft1 p5 ls1 sz
+H 9 452 mj1 2l g71 r31 nd1 fr1 771 c61
+H 7 kr1 nj qv h42 0s 9q jj1
+H 12 321 532 2m 361 4g1 z21 391 351 0r1 f21 bm d32
+H 14 h1 2m1 jl v81 011 m z91 n42 r2 7p1 x62 tb2 b32 vk
+H 7 8m 861 0c v92 m02 v4 78
+H 6 2t pd dn1 bv 4c1 nd1
+H 5 qk1 k5 9x1 qk dv
+V 12 x42 1 qk1 7j1 t72 1g1 ft mk pr1 1z m4 741
+H 8 33 hf tg1 6c1 vf bx 452 2
+H 13 n01 161 0t1 bc1 3k dg1 ss1 x71 h62 n6 b1 lr1 19
+V 11 r92 c51 ht1 xz v8 v9 rt 4x1 4s1 gz1 wz
+V 5 bc2 lh x21 x32 sv1
+H 6 jt1 ns1 tc rq1 z21 sw
+V 5 q52 rm 4t1 1w 181
+H 6 qr nf b7 762 221 3r1
+H 6 43 792 fr1 vb1 mn lr1
+V 12 b02 tw1 dm1 dd1 dg 9k hv cw1 39 rr r82 001
+H 9 7k1 2x1 g62 lz1 dg1 hv 131 5j1 rf1
+H 13 2 v32 dn fj 82 x4 9w1 jr1 kb2 252 hf1 c51 1j1
+V 11 ks 391 7d h42 242 w11 l6 jv1 1b1 091 bm
+V 8 mb2 3d1 kr1 v9 812 rr 481 sv
+H 7 8w f42 4w 392 s2 861 291
+H 5 gb2 z22 2 0b1 0t1
+H 6 hn zg wg1 bv 001 pr1
+V 7 v81 181 qj1 491 hn 642 532
+V 10 6z1 kr1 v9 9d cl 3q dg1 zx jt q5
+V 7 471 pc v22 kf1 qn1 dv jb1
+V 9 0t1 sj d7 dq1 dd1 9b1 161 qs nj
+V 14 mg pg1 1v1 9n1 gn w21 2t m9 js1 13 mf 3r1 61 4d2
+H 6 312 v61 sj1 wn1 f22 qg1
+V 14 dl1 9k n52 9d1 zr hp1 tb1 t82 hm 9l1 bh 7d s01 532
+H 7 d 3d1 h1 3w 39 gk1 182
+V 7 w51 2x1 gc 19 r4 6d2 692
+V 14 212 361 h8 mf 7q1 4x rr qh 6w g7 3q 77 7t1 m92
+V 11 jr1 kf bj 0l1 2m b02 z22 pb1 rt c91 hg
+H 7 l91 7p1 th1 lm sx1 pc1 l9
+H 10 6t jq z21 h5 f2 v7 fj tc1 vc1 dn
+H 12 g71 1d1 bj mn 7d dc 3z v9 0j1 qc qp1 9h
+H 12 3v1 rt h4 452 3c1 q7 1g wn1 vr v zm k81
+V 10 512 9v1 r1 01 b02 8l1 r51 pb t4 z62
+H 6 9h 862 k21 nz1 1w zn
+H 10 gc td h1 3r1 8l 3p1 t42 d7 9x1 z42
+V 9 t22 192 612 b7 3k bn1 bz1 d qw
+H 6 q42 291 7l1 wj qq hn
+V 10 5r lc1 6c 2 x12 8b1 fq1 lm m42 z61
+H 7 7v wg1 qv1 hn kr q81 p41
+H 6 nz1 sf1 r41 h42 9x1 1w1
+H 9 34 0s m02 v12 g72 bd1 gp1 c21 561
+V 8 hl1 q91 gz qz rt hv 42 p21
+H 12 572 7c2 63 322 d l2 nf 501 9c 001 hv1 k2
+H 10 f42 63 w22 9x1 z91 cn1 z82 l22 h12 9j1
+H 9 c11 5q1 mb1 p92 d f92 451 nq xm1
+V 5 4x qv1 452 342 3r1
+H 12 q81 nj qb2 1r 4d2 z21 vf1 c21 5q1 r51 qf 221
+V 10 h01 9t h41 z61 bd1 m02 1w 181 351 t92
+V 8 0j1 lk 481 gj gk 3g pv1 sk1
+H 13 6c zr 93 b01 dp1 nj r1 861 sm 8j 2m1 x5 pn1
+V 12 tw1 4s r5 5p f21 qh 8n zx 6c j4 hc1 33
+H 9 9c rx 541 zt1 82 m3 dg f6 hr
+H 12 74 xn1 b02 gl1 gt1 vs1 291 lz1 992 m51 tm gc
+V 11 7n1 tz f71 lg1 481 4d1 cq sl j82 h1 6w
+V 14 v31 3k1 fc2 z82 bm gj 3p1 cw1 x41 4r t6 kf 0s pr1
+V 10 br1 l9 6n tt1 kf 3r1 rq1 q01 h8 mz
+H 6 fz1 6 m8 492 3c1 8l1
+V 9 xf1 qb2 n72 wz 0f1 rp1 tc2 qf 2t
+V 12 9b 0m n51 2 dl1 pb n31 c21 8t fj sw 33
+H 7 7p1 gb fz1 bv1 bt1 w52 j8
+H 7 js1 gt1 pj1 tc2 v81 19 pc1
+H 6 nx h71 5r 9c2 mf r82
+H 7 1v1 6g 2q 4l rc1 111 hj1
+H 13 wf 38 v8 k61 gv 54 561 ss cl 8x1 z42 2x1 f9
+V 10 1v1 4r1 g71 nj t82 8l vk1 0h1 sl1 672
+V 12 762 x41 j82 3b1 5w1 5b 9t 2 6r1 jq1 xg hr
+V 7 gb2 hh 572 mm1 q81 cz1 4x
+V 8 q01 x71 9w q81 cl1 2m 031 762
+V 13 d62 c5 s61 xb jc kc1 s22 wj 511 dm1 2m rr 6c
+H 13 291 f42 l3 t4 482 dz1 qp1 h42 lb2 441 9q1 j51 rt
+V 11 55 962 zg s4 g7 k6 5w tw1 d62 hc1 651
+H 11 d32 l3 1g 3r1 fc1 qs t51 5g 832 mf 1s1
+V 8 rx h wf 7c2 z01 vf 5g gn
+H 10 xg v32 3g 74 dg1 mh1 dc2 bn1 hb1 7c2
+V 14 qg1 m42 p62 ql 41 qh n4 gt1 k52 ch lm 861 j82 hb1
+H 10 3g rt d41 hc pb lz1 q52 9d1 2x1 l4
+V 12 f12 692 34 99 fs l6 hh1 tw1 lw1 v9 hv 881
+V 6 z22 tz1 d2 fw1 0c h42
+H 9 592 lb1 n3 f42 6k1 h8 4t1 69 n81
+H 6 452 38 5v1 7c2 2j1 n21
+V 5 8t1 861 2x1 dt z4
+V 6 hp1 z9 4d2 d62 r1 0j1
+H 9 zm1 ww kh1 m52 j91 n4 w52 6q1 bw
+V 13 4t1 gt1 9s1 qq h61 3q 221 672 d81 361 v42 r1 4d1
+V 13 vd 3x 321 dp 532 zm mg1 lg1 6r1 qf r81 351 gm1
+V 5 q71 tb2 jj1 5w1 n3
+H 13 gc dp n51 h71 8w c51 nc1 c11 qz vs1 ll1 1 xk
+V 10 j8 lg1 qb2 991 lt1 3g 412 lg vk rv
+H 9 462 v01 dd1 4d2 hw 041 33 k6 pc1
+V 11 bz1 t72 n51 m12 59 n4 762 xc 48 ww hb1
+V 14 z71 0b 74 mj1 131 2t 6d2 lg1 2g k6 38 f41 4c2 wn1
+V 14 v1 sw 6x 342 ph1 8w q91 242 161 4t1 19 3r1 532 x71
+V 12 rx wc 711 pb2 0f1 v92 kf cx1 8b1 1l1 gz fz1
+H 12 882 802 n81 m21 wj1 l72 162 572 5s pn1 88 jh
+H 7 572 l3 kg 161 271 gs 8t1
+V 13 141 2p 161 pd 8h1 ms1 7v hc j41 sw zl lm 09
+V 11 cl vr sw z61 ws1 2x1 vc1 v32 591 gp1 232
+V 13 sj1 3r1 q81 d82 pn1 13 j4 5f1 zk1 311 vp1 hh1 7w
+H 14 171 c42 f42 7d1 6z 591 x11 jc1 2x1 z61 861 sx 511 mp
+V 6 lw z9 7h jt j82 ft
+V 5 2p1 mw 4 3p jt
+V 6 78 cf 3s 801 vd1 492
+H 5 0l1 hg1 xk1 ls cw1
+H 9 fj dp h42 sw bw1 h11 692 b92 672
+V 12 tx1 xc1 d7 r72 55 gk1 1p1 0l1 jj1 w72 691 m9
+H 12 33 db2 b7 882 l9 7j1 mf 991 851 4r hp1 h1
+V 12 l72 9z1 wz z61 7q1 qj bp1 jb1 lh1 bv1 d7 0g1
+H 7 z91 z02 d fz1 l3 34 p8
+V 10 75 5g1 032 dq1 l8 442 tw1 pm p01 wf1
+V 5 55 4m1 dp rl1 p21
+V 8 b5 2c1 k22 tk1 351 4f 8b1 801
+H 12 z4 kg1 8t 0b1 8f 011 g52 13 wg1 bq 1p vb1
+H 9 002 td t4 wh 65 mx 441 z22 0b1
+H 6 4p1 p02 8k m42 tb1 622
+V 7 gt1 861 3w d62 rn d41 19
+H 12 q31 0p z91 j7 dp 0n1 882 621 141 c41 921 512
+V 10 q8 64 822 d42 r71 zw vx1 7d1 0j1 l92
+H 10 532 0q1 jt p91 gb1 81 xd1 412 4s1 0l1
+H 10 471 8h1 2d f71 jz 6z 161 v22 j41 k02
+V 10 tl1 4m1 3t k22 dj 8j zt1 332 kx1 33
+V 13 b7 gk1 r82 1m1 dp1 cl 0l1 t21 f71 v32 lg 2n1 nl
+H 8 q52 zr g71 b8 692 qc zb2 l72
+H 8 k6 l3 ns 562 8r1 pc gc2 c11
+H 6 nf jt h1 802 4d1 jz
+H 9 xf1 87 xk1 8w 881 4d1 g71 f21 qn
+V 11 h31 dg1 w9 hb1 nq1 q91 t11 l01 042 g01 s92
+V 12 q52 6z1 bw1 ft m82 bh1 rc1 vs1 c6 c61 vc2 mt
+V 5 6r1 n r22 zt1 vv1
+H 8 hb1 k6 bb2 33 k 0c b5 h5
+V 13 dm1 gd d32 nk1 l6 682 5f1 mf1 c61 452 vh1 4d1 r81
+H 5 rd1 l6 fc1 n81 6b1
+V 5 bm hw1 382 3p1 hd
+H 12 zk1 3q1 mn 181 f22 0x1 n12 532 062 hz pd hh1
+H 12 xp vz1 pg1 cw1 g62 f2 991 hc 4d2 pc1 gl 8l
+V 12 891 qp1 tb2 m9 462 lm1 r5 pj z2 vs1 0r1 6d2
+H 7 wd1 qd 471 511 6j1 z82 sd
+V 12 f01 vh 961 pb2 131 r02 pp1 q01 kr1 hg1 hk1 b62
+V 12 5v1 1v1 942 m42 1s ds1 r1 c21 c5 011 q72 071
+H 11 6w 8v1 qz 5h1 g7 n71 5r1 4q1 xd1 k31 m9
+H 12 821 k72 v32 tk1 j82 m52 z02 1r qv 131 pn1 jt
+V 13 1t1 861 gp1 vg1 n3 5k 1s sp 23 b02 v2 jb1 v1
+V 10 l31 66 dg tb1 zk1 7m1 64 w52 lj p3
+H 9 34 bm 5m cj v81 tw m81 g91 q52
+V 13 ts1 rs1 fr1 nm 3r1 bv 4d2 jp1 9x1 sw f21 zg bb
+H 11 x71 dm1 532 sq l1 762 0b1 1n vk x41 d92
+H 11 3x1 qh kx q3 pd sr1 c61 c6 jt t82 qv
+V 8 zl1 zw zn 791 b7 c2 d51 fj
+V 9 gt1 n81 k61 6h jl1 nf 7j1 st1 t
+V 6 7w 7q1 2x1 561 dg1 qc
+H 12 tc1 tf1 3r1 cr ht1 x41 n71 vz1 t9 001 nl dz1
+H 13 9j1 d41 4n1 pg1 tx c6 1w n3 w bb1 pc k62 5q
+V 14 rc1 cf 762 ld1 2v h8 hz t6 19 qb2 q01 t4 0b1 7w
+V 14 qb2 63 1g 882 j01 dd1 q81 dg1 sl n81 vz v81 rp1 hh1
+V 14 zw 3x 5w1 001 rw1 3b 3l1 622 l02 l51 7d 6h 1t p41
+H 14 0j1 r32 sp 361 2m j41 2g1 9x1 mt1 bc1 k7 np1 232 v91
+H 8 r51 4d2 mj1 9z1 9c 3q1 572 232
+V 10 vh 3q 881 78 l51 v52 0c mj 4d2 3r1
+V 13 p f01 vk x01 wd1 311 9d1 l7 hc1 4c1 zr vh d62
+V 6 n4 xh1 fl 0f1 q92 1n1
+H 5 r5 hb1 v9 jf1 rr
+V 9 qb2 7b2 012 dn1 762 0t1 vs1 002 dg
+H 12 rr 6r1 x91 cl 3v1 3j1 kb2 p7 fc2 v61 5 512
+H 13 qc vb 7l1 xx d51 871 kx 76 c3 791 pr1 rt f2
+V 13 861 242 4d2 7k1 13 m62 7v w f02 r51 r5 x71 ld1
+V 12 4l fr 161 561 b02 dp1 kc1 1w 2m vn 3p 2x1
+H 9 4q1 3m 141 7q1 m11 c2 q01 pn1 4c2
+V 7 d41 7v j41 4z1 g71 471 272
+H 12 2f1 vb g62 6k bs1 hb1 h61 cv1 2m kf q82 wz1
+H 7 782 hr 3k qk1 051 x72 db1
+V 7 sg n51 n81 ft1 vr pg1 vh
+H 14 d21 141 qk1 hp1 lb1 sw t71 9g1 032 m5 f61 sr1 dg s91
+H 7 gd 86 gx lp tc fc2 s42
+V 11 211 0c b32 qb2 mx1 b5 f01 hz1 mj1 nl zk1
+H 7 fd n32 2 88 c81 9h 6t
+V 9 291 74 6w pt l51 38 64 z21 3w
+H 5 sw q91 r82 vc1 zm1
+V 12 n51 l6 wz qc td zg 212 v32 4g1 hb2 3p v81
+V 9 l 232 7c2 882 462 q91 r1 qw1 rk
+V 5 j8 511 gn m81 z9
+H 14 dz1 9d1 19 2r 6z c2 nm c21 zg qz1 t71 qw1 rq1 gc
+V 7 dp lh 881 c61 7k1 q52 9w
+H 11 4n1 5p1 4x1 js1 f8 3w n12 5d2 z32 001 2m
+H 11 mb xf1 t11 sj1 t21 vb1 232 c8 0h1 k6 r2
+V 9 qp1 q3 9n1 c71 rn 0w1 lc1 d82 8h1
+H 10 hc1 021 lr1 78 3v1 34 b5 4n1 38 n3
+V 9 n81 qr1 q22 kl 8t1 882 3t d41 rw
+H 12 wz 002 2x1 fb 282 t42 2 wv 711 fj z02 0n1
+H 5 0l kf 761 6r 9d1
+H 5 wg1 n6 pr1 cb 861
+H 11 4x1 bn1 gx cn1 2d1 ph t4 zg d32 z22 rk
+H 13 ww 1z1 sv zk1 542 h61 852 4d2 33 m42 qk1 hv1 4w
+H 12 1 cc zx 8t1 db2 h11 d02 m02 rj hn c21 471
+V 7 vz1 cs 9p1 z9 c61 pn1 4r1
+V 14 m9 x3 fb2 9s1 d9 5v1 181 nl 7q1 h61 j81 t 1v1 9z1
+V 5 m9 td1 511 br kr1
+V 13 hk1 462 032 wd1 r42 dm1 jc fr1 2 zn hp1 882 n12
+H 8 4d1 f2 v21 rm 8b1 11 ft1 86
+H 6 r9 zw x51 c21 c61 3z1
+H 10 ld1 w82 06 l6 zn 4t1 q81 342 qz1 d62
+V 9 4t1 t21 tc 861 pw 55 ms1 nx1 0t1
+V 11 6g1 b21 8c2 k6 hp1 dn1 l51 lb2 4k r nf
+H 7 6b2 0g1 5c mf gc cw jl
+H 7 nj 5t ld1 522 3g 8l1 0h1
+V 14 47 961 2t x52 tz pr1 m51 g31 4x1 6 t72 6t dc1 621
+V 13 841 bw rc1 fj mf q81 t11 tc fb 39 321 zn f52
+V 5 sp1 zt nx1 4w 811
+V 13 c5 2 ns rq1 5c 5p1 48 5n1 9d1 qj1 911 c61 t61
+V 11 c5 zd jj1 xx1 st 55 1v tb2 gp1 1 s92
+H 9 tb2 9k b9 621 64 661 8n f41 g7
+V 6 1 7l lc x51 tl 6d2
+V 10 nd1 8h1 2s1 cf 291 h8 n1 v vr pb2
+V 8 vb1 hc1 ct 81 jr1 kf sp vf
+H 11 zm1 1v1 0h1 n51 t1 6s1 692 lf1 66 z61 rn
+H 6 d32 4g1 cl 6n1 jn1 f01
+H 11 3w 3k 651 0x w81 nz1 z22 8l 001 jn fz
+H 10 zg ht1 2v1 8d x01 bm rd1 622 7n1 dp
+V 10 wz1 mj1 81 n71 hd1 fj jx1 b5 1b2 mw
+V 7 3l 9c1 xh 462 121 mm1 lg1
+H 8 pc1 bv 291 4j 9d1 zt1 sr1 qz1
+V 12 2k hq p71 q51 8h ql1 qx1 rt1 pr1 9m1 n3 g3
+H 6 pw1 t11 zk1 f81 fb1 v8
+H 12 bx1 4t1 91 4d2 m91 33 p5 b7 b8 c51 pr1 291
+H 7 7p1 3s1 bf1 wc2 xg q01 ln
+H 12 rf 672 6h 8b nv1 k61 6j g3 ms jl nl 1r
+V 6 jb1 5w1 5v zk1 lz1 x22
+V 14 7b1 0b1 6t 942 212 3m hp1 622 dd1 v bd1 nx1 tp1 w81
+V 12 cv1 5z kv ww xg jj1 81 wd1 m9 f61 z61 fb1
+V 8 2w zl hr 4d2 c21 r1 512 g2
+H 14 6f qz qr1 dp ww md1 332 wg1 jm1 t32 051 qv z22 m51
+V 10 222 qv1 f7 rm rz vh 4l1 9t1 bj 541
+V 6 86 cs1 511 js1 gw 07
+H 11 1c2 m42 q d4 xg tc 242 992 m81 kg ds
+H 14 34 fc2 zn 13 wb2 0h 2m n61 c21 g52 n51 3c1 3q 2m1
+H 12 fq1 hp1 zm1 0j1 vk vc1 qc nl qv1 nr1 8h1 nj1
+V 6 301 28 t82 dn jt q52
+V 14 t82 n12 09 x71 2m1 x41 52 l6 gt1 181 m1 zn bv 8z
+H 10 5z1 t21 102 rx ng1 5t1 9q1 55 b71 g7
+H 13 pq1 r42 hr1 f42 w81 0p bw1 7p1 k61 0t tl1 jt1 b7
+H 6 zn tb1 v32 462 m32 9k
+H 14 2s1 4w hc1 cc d41 n7 5m1 4t1 z21 gr1 m02 db2 mz md1
+V 5 102 302 5f1 vc1 hp1
+H 13 rr d32 hn kf v61 002 kp1 r5 9q1 sb1 f01 k22 6h
+H 8 9q1 1w j71 v22 kd 762 w11 8b1
+H 13 cr1 21 mm 882 hn cc 3q1 f42 881 ht1 262 bp 4q1
+V 11 181 tb2 272 qp 9m l6 ml1 82 ck pc vc1
+V 9 qc2 j91 js 462 m7 zc 7j1 r 692
+V 5 lz1 w21 88 k6 031
+H 8 5f1 1 012 882 z51 7n1 1q pd1
+V 10 9r b5 0f1 jb1 3g 011 332 501 pd m3
+H 14 s4 sr1 h61 v1 z9 zt1 931 l6 1s 1q1 6p1 sk w f2
+V 5 2t hc1 vp1 x51 k61
+H 5 kt1 zw g1 mj1 64
+H 10 m02 fb1 qc r51 2m1 cf1 kk 19 zh1 xh1
+V 11 151 3t1 131 w11 031 062 9d1 qv 2x1 981 rq1
+V 11 rg hz sq 6z t82 34 81 9c 131 j1 t
+V 10 471 z4 z21 d c72 0d1 4q1 fl1 3m d41
+H 7 m42 pq1 bs1 z61 ww k71 pc
+H 6 js1 0l1 m42 x71 sg p41
+H 13 hg1 w52 h8 8b1 z01 qz1 1w sh1 341 p8 0m1 cn1 dv
+V 8 f2 bv 2m r62 d61 t82 dt1 r2
+V 5 c2 66 s01 711 0f1
+V 9 lz1 st w81 c6 hb1 w32 qv tb2 vn1
+V 8 0t1 462 zk1 qq b61 cx 8d1 5v1
+V 14 0t1 88 fn1 bm tw1 km1 v32 rv1 601 8c2 tz1 8m hc1 3g
+V 9 112 q21 8t1 l42 qv vc2 k22 jr1 fb1
+V 11 3t bn1 4r 7v 3p 0k 411 vk zq mp m81
+H 10 532 161 5c1 8t1 1 3p1 692 0w1 p41 8h1
+V 9 v32 711 cc zg v02 td t42 6n 532
+V 6 m52 zg hn 5v1 js1 5c2
+V 5 9j1 dp1 vr1 vc2 2b2
+H 14 m81 pb 8l1 7w b91 731 0k pn1 vc1 t 452 fx1 r51 h8
+V 6 qq rb1 351 r82 b7 l31
+V 9 k31 ld1 2s1 4d2 f2 w8 4r n51 94
+H 8 l61 n12 zn tz1 jc 5w1 lm xm
+H 6 9z1 h11 f11 7p1 0d bz1
+H 8 qd1 v21 6q1 k4 361 dg1 7j1 641
+H 11 3j1 wg1 kn j41 z9 802 19 w52 93 1j1 0l1
+V 9 081 md 221 m1 b32 zw wz x41 kf
+H 9 qs l6 z6 f2 6z 7d1 h61 672 hb1
+H 9 5s1 0t1 m7 hp pg1 64 sv1 v9 b31
+V 5 7g1 692 zt1 z42 qq
+V 8 t11 qt1 2b jr1 vb n61 tr w
+V 5 r5 z52 rk v32 412
+V 8 xg1 bv dz1 qq qr1 ms 7j1 qh1
+H 5 7m vf f42 6r gb2
+V 5 c5 t 002 c61 gn
+H 9 wn1 t82 7n1 b62 z31 8n 76 f2 kg1
+H 9 j7 zn q81 kw1 rk 8l1 8j z91 lz1
+H 13 6z 0g gj1 622 0s b62 nq1 8b2 hp1 s5 t6 m7 b3
+V 7 z22 jc g72 vk ts1 g4 342
+V 7 zf 0w x41 fr1 181 sb2 1m
+V 10 2m 0t1 jx1 462 4x1 f01 zg 8t1 mr1 7p
+H 10 xf1 b91 xx 771 nj gr1 q01 hc2 lw1 dd1
+H 7 7p1 7d 38 lt 9q1 bj pn
+V 11 tk1 6c gb2 wv1 z12 hg1 g81 z22 011 l31 19
+H 11 q21 7r1 z9 zp t n4 82 g8 1f 9k 1g
+H 11 bz1 wg1 dd1 qc2 kj1 s6 rq1 2m1 b51 621 6r
+V 14 58 gt 181 fc2 pd 7p1 hv jt jh 2 81 d62 wp1 04
+H 12 952 k6 r42 s92 6r1 9c 4n1 5p 7d wt tb2 w12
+V 13 86 tk1 lw1 fc2 0j1 141 bd n71 7p1 2t pc s92 0h1
+V 6 2d2 2r1 rh1 701 622 r42
+V 14 vs1 j41 002 n12 6z lz1 ld1 l51 9j1 lr1 ls1 471 511 532
+V 13 mf tb1 f12 bd1 34 hv k22 sb2 1 rg1 4t1 gc r5
+H 6 cv1 ss t22 s6 dn1 0h1
+V 10 dd1 lm x41 qq m42 pg1 h8 hk1 5v1 74
+H 13 452 xf1 j02 hg1 c 021 4k1 38 w11 qc1 5b1 412 kl1
+V 10 9c f42 fr1 c61 t52 rk 381 tk1 gg1 8h1
+V 11 jm1 pr1 bx1 28 q02 6v 2m1 sq1 t72 kc d31
+H 5 512 6t jq1 011 jr
+H 11 332 n12 v32 pb2 0s 32 t02 z61 8n vs1 6r
+V 8 3q rc1 831 j91 b11 b5 351 v7
+H 12 152 3m pb 1j1 t21 6t 8s 391 w81 432 tc 512
+V 7 b5 8l 4r z5 991 3w g7
+V 7 161 0l1 qb2 q91 r82 bv 1k1
+V 7 3x1 n5 w81 141 0w1 hr r82
+V 7 zk1 z9 b1 z91 772 n71 dh1
+V 6 22 9s1 mf n3 k32 kr1
+V 6 z91 b5 762 ml qk v1
+V 7 gb2 vc1 bm1 13 w22 nf 5v1
+V 7 qv bv nm 2m q51 h61 221
+H 14 r02 nf zb1 ds r1 lx1 892 r5 q81 b7 p61 f22 5j pk
+H 5 j41 l81 gg 3q1 px1
+H 8 8l 6d2 fv t11 jm v52 3 wc1
+H 11 ww 35 p41 fc2 9q1 pg1 561 mc 5k dv kq1
+H 5 kt 66 f81 s92 hk1
+V 11 p52 2v 1s z91 4x tw1 2t m1 1w zm1 sn1
+H 12 9z1 221 cc bv sc1 6f f01 vs1 hp1 z21 762 x7
+H 14 57 kt1 m81 f72 tb 7w dz1 wp 64 dv r02 6h t11 vr
+H 5 351 qx m81 551 xf1
+H 6 k6 t11 t72 9q 3q1 881
+H 12 kp 011 q52 6r1 bh d h11 1 dp1 911 481 8h
+H 5 h1 q12 1 86 d32
+H 10 7x tp t21 r8 f42 fc2 5f1 0c 521 64
+V 9 c22 g41 w3 nv1 cf 8p r42 861 8q
+H 7 vr n3 771 t11 311 n51 cz
+V 11 562 cc2 6z rr 33 ht1 49 px l32 gp1 z82
+H 13 rt kj1 m81 p52 kb 3m bm w62 dl 242 1d 5w1 db2
+H 6 7d1 jj1 q12 0w1 122 fz1
+H 8 d6 cv1 r51 33 q61 39 t32 zw1
+V 9 xq1 n81 512 j72 f21 c82 r1 5v1 0f1
+H 7 w11 h61 n3 t92 81 421 cn1
+V 6 512 jr1 bv kr1 ls1 1g
+V 7 691 fr1 zg s91 351 vb z62
+V 14 3q 532 dg1 l72 mz1 vc1 ql1 n71 jj1 9s sb tb1 n4 5h
+V 11 342 8h1 dp1 8l1 cz1 k52 ts1 6x 332 r1 vk
+H 10 vs1 1s wr 4m1 76 v f2 1v1 001 pd
+V 10 f2 g71 561 5v1 cv1 k52 m52 r5 d62 dg
+V 13 032 4n 861 r2 f02 qv g61 xt1 p11 h2 8l cc f12
+V 7 j8 dd1 m01 1 db2 rw mx
+H 7 js1 292 qz1 w11 fr1 651 7x
+V 7 0j1 tk1 pb 9c1 291 h61 hc2
+H 9 752 4r bj qv gc ss1 88 7s 812
+V 13 s4 h8 7n1 n31 lr1 pb2 hb1 79 lk hc 19 cc f42
+H 10 7d1 8f 3q 711 mj1 vl1 3v 7k1 hv n22
+H 7 141 c32 rr h61 3c1 322 bs
+V 6 2f z6 0c mp1 9c1 9d1
+V 12 1s 2v1 ts h1 l12 jg lb2 n11 t22 5 t11 4w
+V 11 1h1 q81 k12 zw pn1 2t 76 rg fm vr d9
+V 7 d dn 8l h1 gg bl 6d2
+H 12 pm1 b81 nl tb1 0l1 p42 fz1 81 c61 qf 9q1 8j
+H 6 cv1 t6 x51 9c1 b02 0j1
+H 12 242 351 bz1 pj1 8r tl j82 802 5n l9 t82 nx
+H 7 t s92 l5 f42 8t1 4d2 qx
+V 10 k61 5r1 3k 0f1 4t1 cc tz1 c21 wz s52
+H 8 n81 602 rs1 z9 rr1 3k qz1 d82
+V 6 ch1 v61 3p hg1 382 bj
+V 9 d p41 ss1 r82 86 zq 151 8t1 9w1
+V 6 p82 t41 gt1 161 6h1 252
+V 13 s41 pc2 622 rr 211 q42 t92 m81 53 3c1 vh mk1 jc
+H 9 tq 3h1 vb1 qh h91 hj1 bj 4g1 r82
+H 11 c9 9k t9 3q1 131 33 c8 k22 3p vs1 3x1
+V 10 3r sb1 4n1 wd1 0c1 t82 v7 fj1 1l1 392
+H 7 p4 d51 g61 3d2 032 hr 3r1
+H 5 qs qk1 1r1 w11 6c2
+H 7 tw1 6k1 bj 2q1 9f1 q52 232
+H 8 t82 cv1 3c cn 0v sm1 q32 jh1
+H 5 002 g7 zv 9h b11
+V 10 mj1 19 7d1 js1 412 381 1v1 p82 5v1 8b1
+V 5 nr c62 ww b hh1
+V 11 0j1 f01 dk1 hp1 hg1 d82 x1 831 381 9d 3p
+V 7 dp1 882 tp 4x1 l3 0j1 lm
+V 5 tb2 bf h82 zn d41
+V 6 832 tp 36 q91 dz1 7d1
+V 12 pd 9z 3q jv 2 n22 jw1 qf db s32 wb1 mc
+H 7 bj d 511 dp1 392 ht1 qc
+V 12 5h1 5f1 8l cv1 6z 462 2t w91 9p mg1 0j 832
+H 12 zl jr1 ll zf 9t1 q21 ff1 711 r51 x3 482 m9
+V 11 76 js1 wg1 km1 q91 v02 hb1 6t 072 6d2 gg1
+H 13 7f 312 wk1 181 n51 r02 rx px1 k82 r1 452 8w1 622
+H 10 sq vk db2 v1 78 281 r61 jb1 cc tm
+H 10 b7 j3 j82 11 zx1 3c1 s72 z42 l71 ft
+V 8 d01 f82 sr1 621 qx k82 st 861
+V 8 2 n91 cp1 zw fv1 z91 3w d41
+V 9 rc1 2n 1w zs1 001 3m mj1 l61 qh1
+H 11 84 x41 511 622 19 1j1 74 h92 l31 m42 nj
+H 7 cj1 9p g12 8n p21 8h1 76
+V 13 66 83 291 1s mv1 4v1 ww pc1 4t 662 g52 dr wk
+V 9 9k hx1 921 3q1 hc1 k22 x1 zk1 fk1
+V 12 n4 3p 4t1 jx1 072 hz 991 q62 rv x51 7q1 wc
+V 7 4r 1g h11 cw1 dx l6 pc
+H 10 t11 0j1 hx r5 tz 4d1 qq bc q2 gp1
+H 9 gc2 3h pc ls1 t11 q21 17 gb2 2m
+V 7 bg hg1 z mf 8s1 zw 0g1
+V 14 t6 zb tb1 d7 p9 4p hc 19 ww v9 4 4r 1l1 h52
+H 5 d81 lz1 d62 002 031
+H 14 c51 6r gt1 gj pb2 1 z82 622 nv n12 tf 001 4n1 0x
+H 8 sq1 gv1 0z1 r5 pc t82 n12 pc1
+H 14 0g1 h8 g21 h6 361 921 fj 861 b r5 r32 7j h1 t3
+V 12 6d2 vh fb nj cc h1 5f1 38 j42 r5 3p1 8h
+H 8 vw1 vp pd z9 mp p62 t82 n4
+H 14 2 dg h11 ht1 5f1 lh1 gp1 n4 rm 2x1 622 q22 412 3l
+H 12 032 dp 2c2 031 8z1 pb2 242 0g1 b7 nq1 h7 pb
+H 6 141 rm 561 pr1 h1 dn1
+V 7 qb2 ws1 8n wb2 hc k3 d81
+H 14 vq 002 361 m71 5v1 xr1 kq 5f1 92 wp1 4p1 2 7n1 n81
+H 7 5q1 141 js1 c21 m32 n51 701
+H 5 f41 1 vl1 vj1 r42
+V 13 7k1 pb2 js1 wm kw c61 n4 4x 2t sg 4d1 v02 5v1
+H 11 141 3q1 2t dn1 dg nl qq lk1 j k1 t21
+V 10 x01 212 qh 1h 622 bz1 n51 sq1 911 tb2
+H 6 rt1 b5 v1 n5 m7 6m1
+H 13 1v1 fp lw pg1 452 sg 7v1 wc2 tw1 c2 sj1 zj1 4b1
+V 13 x92 db 1w w8 4x1 sv1 171 hb vs 0r 141 pg1 8l
+H 6 38 7d 0b1 8b1 hh1 h1
+H 7 lx 462 622 8h1 4d2 7n1 6d2
+H 10 291 001 011 r51 221 8h q5 3k jt1 7d
+V 14 qz1 8l1 991 h31 db2 z91 qm tb1 m42 hh1 011 ld1 dc2 px1
+H 14 vb g62 vb1 vk hc2 z92 d51 pc1 5p1 dz rk hc dd tm
+H 13 85 m22 hz f7 21 t6 342 b7 f01 3k bv1 pb2 fr1
+H 6 cv1 0j1 c5 l21 pb pc
+H 5 172 621 73 8v bw
+V 5 jt sp gj k8 z02
+V 5 5f1 361 472 z61 511
+V 13 nc 0t1 2t1 6x qv1 lm 861 34 21 1q pd c3 ft1
+V 6 0w1 ft1 512 m1 q3 1g
+V 9 1p1 t21 3r1 vl 13 t j9 b5 bb1
+H 9 002 471 t 692 bm hc1 12 zh 75
+H 12 781 6f1 6r1 t72 dg1 vs1 bj1 5f1 p62 tz1 4r 7d
+H 12 33 j91 c5 h8 k51 tb1 mf ts1 7j1 7c2 ns 2d2
+H 12 j8 512 6l td vb1 m91 wz h32 7g 2n 161 rk
+V 9 371 3c1 wz 88 z22 7d tk1 4h1 d
+V 8 wz kz 921 j82 9x1 81 kf hp1
+V 11 nb1 gc sr mf kc1 712 h8 ww pn1 3p1 dv
+H 14 gc 3m cl z02 mv h61 jr 3p1 mj1 fc2 g5 xg ds1 tj
+V 6 f42 vc2 8j hc rv fc
+V 10 d51 t21 gm 6z1 x2 9d1 7p1 501 7n1 hg1
+H 6 f52 cj1 qv hh1 l31 qc
+V 12 1q 8b1 tj r81 dd1 q52 19 3p 232 4d1 38 r9
+H 5 ts1 m81 hs q91 t31
+H 6 sx 5c2 zt1 z81 86 ld1
+H 12 sc 5p1 152 9k 6d2 5f1 hm1 4x 991 mj1 jb1 zb2
+V 9 gb2 q7 c12 xf1 2m 1w kj jb1 q01
+V 12 63 w8 l72 3k 8l 242 6t 881 kt1 z91 vf k42
+H 14 0d1 fd 9b2 4d2 q21 x01 762 tz1 x31 rk w11 461 ks1 n81
+H 6 j52 8z1 k22 sw1 n51 q52
+V 7 dv sn x71 4c w21 hc pc1
+V 9 cl 3p gn 951 zt1 011 d82 7q gd1
+H 13 q3 nf j61 s62 b2 4d1 621 sq1 rj h61 t9 6r1 pq1
+H 8 v4 xd gh 8f 7d1 pc1 mg 2t
+H 12 9g1 jl v02 td 58 lm q21 bj l72 5p1 vr 27
+H 7 hr f42 f22 8w sj1 4h 63
+H 14 c42 k22 hd 512 wv1 162 pg1 r1 tc1 1s sr d51 212 t
+H 5 7 4x 481 n3 681
+V 7 gb zw w62 471 bv1 lq1 lc2
+V 6 z31 8w1 881 xc2 cn1 ft1
+V 5 z62 0m jx1 jm1 ms
+H 5 74 pt1 m81 bm 332
+H 7 zr 572 55 0f1 zk1 d71 z02
+H 9 3c1 181 x1 p21 m52 v02 2r 5f1 v1
+H 8 0g1 h42 f01 t8 w11 mj1 rx1 z7
+V 6 j8 7f1 hg1 13 011 tb
+V 8 x lf1 242 1s 7k1 2b 3q ld1
+H 7 c11 622 kl xf1 6d d51 0f
+H 7 q01 b01 5v1 tz1 3w vb1 9c
+H 12 6c h42 d lz1 tc1 gn1 pr b8 pp vf x72 202
+V 7 rk fc2 tq1 wg1 b41 x12 7n1
+V 11 h51 pp tx1 b7 5m1 fj d62 ls1 k6 t41 7d1
+V 14 ft dd1 7k1 xb qv v9 v02 881 2w cv1 0t1 hk1 q91 3f
+V 14 hp1 v3 97 4n1 78 6x dg1 g62 m11 dm 221 9d1 74 4t
+V 14 921 j 771 7q1 gx1 76 j82 9f1 j32 h62 3r1 dn1 011 2q
+V 5 p4 l11 z02 4b1 3p1
+H 13 511 cc 4w z91 4c2 s31 c6 751 ld1 14 6j1 vx1 4m1
+V 12 6d2 vh 991 9f wn1 hk xf1 4t1 691 bk1 zk1 7d
+V 11 28 fj wv1 481 n3 cb2 q11 kt1 jx1 pd d7
+H 14 7k1 zt1 471 7b2 z22 sg gc2 351 k31 082 0l1 gt1 fz1 fc2
+H 12 hb1 g62 h42 qv 711 4d2 4x1 qc 302 j82 b02 jn1
+H 8 1l1 cc hc pz sp ss1 6r1 nc2
+V 10 33 m42 f3 d41 002 7n 39 n4 mj1 9p1
+V 7 6 zm1 b02 2q1 db2 3k 512
+H 7 hc1 g6 ms pc xg ww d62
+V 12 7q1 9k g71 fz1 n3 db2 722 vh hn gb2 zl m7
+H 7 1w h61 rc1 732 512 wd mp1
+V 9 c51 rv ft1 kf t12 c11 bg1 js1 8m1
+H 8 4r 682 nk 9k1 d7 lb1 hg1 zd1
+H 10 pb 931 bv dp f01 vr q21 011 t9 t21
+V 13 f01 8h p21 xt q91 t12 gb2 3n vv1 g71 tb2 3m cv
+V 14 j91 4v cv1 452 sx 1w 822 qz1 v qc k82 z9 65 dd
+H 9 771 rk m42 kf n71 2 4k ht1 lm
+V 8 3k 711 xs 03 351 1g kc1 mf
+V 13 8h1 nl vk 4d1 672 r42 0l1 4x1 332 n12 432 h11 33
+V 9 4q1 n81 v02 3x1 762 6z q52 nm 7w
+H 7 9c j82 l9 2x1 81 0r1 4h
+H 10 881 w81 9j n3 p21 nl q91 tb1 z02 rv
+H 9 ww mf 3j1 pk1 p12 l31 351 8l jj1
+H 7 pb2 t4 k51 8h1 cw sz1 g9
+H 7 jj 34 v81 nl kc1 5l1 ld1
+V 7 7q1 5 7g r02 pc1 n4 q01
+V 11 0h1 cq k6 011 mw1 4b fk1 511 qb2 gn gb2
+H 7 q91 891 q81 sg z42 v9 sw
+H 8 gc x01 sq1 hc cf g32 mx1 d62
+V 7 622 t21 d d82 0m 082 jb1
+H 6 hc 221 n92 r2 jr1 vj
+H 12 lr1 1j1 78 z9 011 tt sv1 w11 w 0r ww x6
+H 10 b7 qz1 m81 d32 7k1 rr pr zl gt1 4w
+V 12 711 fx1 qh ck1 xm lm p72 8t1 pr1 fb1 m7 4x1
+V 11 gc1 4t1 lm1 5r1 mj1 b7 6r1 gt1 bj fs1 7b2
+V 9 141 0k1 9p1 3w vg vk 4n1 3c1 x41
+V 11 x82 fz1 tb2 hb1 gp1 ft w11 351 lb f12 xw1
+H 14 5j cv1 rm n51 lm qd 452 mf 242 rr l01 042 z42 4f1
+V 14 8k 4t1 3c1 8p1 w11 3k jc v9 7n1 5g1 r02 14 c81 9t1
+V 9 b02 951 x1 c61 r02 z9 fr1 g72 t71
+H 8 hc1 1s c11 kc1 3c1 9x1 m32 q01
+V 13 972 6x vm 0c2 l6 hn 361 dd1 tc1 gp1 4d1 sq v62
+V 11 b1 tb1 4x1 qs1 hl 34 db2 zt1 81 412 lb1
+H 7 fm xf1 7p1 101 z1 n8 z9
+H 6 7q1 7w1 4r pb2 ps1 511
+H 10 xk1 651 031 m7 5l1 c82 4r1 kc1 5v 161
+H 10 412 69 f71 nj 64 1j1 b42 p2 38 wz
+V 13 vc1 vm1 8g bv1 5f1 h8 011 ph z5 r02 sv1 z22 8t
+V 14 sv1 b62 kl 412 6r1 1n 161 vh cf pg1 zr 7n1 hb1 f5
+H 6 0f1 ng 38 cl 5s1 54
+H 8 r82 372 332 6r 241 t82 j41 r51
+H 8 x51 vr kc qq vh tz1 4t1 74
+H 8 7q1 r82 hz 7v1 f71 x1 nm hp1
+H 9 0c 2d kx 6z1 76 r42 kc1 532 dp1
+V 11 r5 4t1 x71 bv vh 0f1 0z 4f 852 p9 jz1
+H 6 002 1k t3 1q nx f62
+H 12 h42 qw1 w jw1 5w1 z21 0t1 1v1 k61 4z1 cj1 zk1
+V 13 v t72 7f1 2 fg f42 vx1 vr nf 1v1 rq1 gf 7w
+V 10 vb vc1 7v s82 n81 gk mf tc1 v9 zn
+V 12 rq1 78 hz m52 rk jb1 c2 tw1 j41 bj k82 v1
+H 5 lz1 312 r82 tb2 q52
+H 11 sm dv1 qj1 jj1 s92 13 jw1 561 n3 332 491
+V 14 bc2 m9 n91 bv 001 3b1 c21 h42 bh1 002 3r1 241 th 3g
+V 11 3q 3x1 bz1 zr 3g 6h nc mn 59 1w l51
+H 9 f81 q51 z81 5w1 8j j8 5s 721 t82
+H 12 p21 3t 311 js1 ms1 3g1 nb pg1 qx1 d92 881 gc
+H 9 ss1 181 242 3d gc 8 rt 49 9g
+V 10 v02 n3 m7 dp1 81 pp1 561 pp qv dm1
+H 13 0l1 8l1 ld1 8n 041 221 lz1 z81 dg1 4g1 9s1 67 pg1
+V 7 sb 332 34 j82 n41 pn1 j1
+H 7 8b1 311 mt z82 z61 rm cc2
+H 10 701 76 xq 4g1 qt1 rz x8 4m1 bp1 2w
+V 8 qh1 46 w1 011 t6 k31 7n1 z41
+V 11 lp1 sp 6r pr1 j8 s91 rn bm kc1 d7 1l1
+V 13 nn1 6c dr1 4q1 n51 1s zw 402 3n1 j5 nj jb1 cv1
+H 7 4r wz 91 wx1 m81 q52 0g1
+H 8 fb1 jb bm w42 sz 511 wz qk1
+V 9 qz 37 fj 711 p21 j3 k01 v1 8x1
+H 13 dk1 0g nc2 fg1 x51 8l 001 t72 n81 26 xj ld1 qp1
+H 10 221 4m t r42 532 jr1 1v1 2b1 hr c82
+V 10 hr qv1 391 s11 c21 fz1 g51 d22 n81 mn
+H 12 xw 2t 4z1 pb h61 d01 j41 3w 6h jr1 592 2m1
+V 12 f91 k1 gc 8t1 s92 sj1 v1 b62 n51 m52 7p1 fh
+V 8 8d1 f2 h11 6x gb2 hq 3k c8
+V 6 r02 bl1 tz1 x41 161 dj1
+V 6 1 m81 sp f12 7g jw1
+V 13 4m1 lv bv1 sd1 6t tb1 c02 3g tw1 49 gp1 63 76
+H 9 4x1 041 cm1 fr1 b7 j82 hg1 dr 131
+H 12 r5 941 f01 t82 8l1 lf1 mt t21 43 8t1 3m 1r1
+H 10 dp1 13 nm 4q1 xj1 511 rx x11 nt k82
+H 13 nf kx1 0c 2t bm k82 h2 sw dn1 m9 qc dd1 5v1
+H 14 k61 mq1 vr vc1 8l q91 zp1 t7 bh xj1 q31 4r bb2 4s1
+V 11 1j k22 m42 jj1 h72 792 rv jw1 rc2 132 zn1
+V 5 6t 621 cn1 8l n12
+H 7 p12 v7 v6 6t 011 692 gp1
+V 14 d41 0w1 r2 6t nf tt jc2 f2 561 511 k6 t32 h1 jj1
+H 7 212 0l1 mj1 n12 s8 6z1 35
+H 11 qc d7 dg v1 pr1 3v px r02 n51 r5 4g
+V 7 pb2 p62 b02 lg1 pb n81 z8
+V 6 9h 74 zl z02 4r 6w
+H 12 3p gp1 vh tg vr zg 7c2 kr1 ts1 4r 2m bm
+H 11 7k 5r1 852 dp sp jt kj w91 ks1 vx w61
+V 6 6s jd1 z02 q81 5k 55
+V 5 2x 4d rt st1 lr1
+V 11 d41 34 qx 46 zw 2q 26 bq1 j1 x41 cc
+V 6 7h1 4g1 332 ff1 bd1 fr1
+H 11 jc pd lz sr1 r01 qq 6d2 m7 251 l72 6b
+H 9 t21 8k1 3c1 4d1 wp 232 5m1 wz 621
+H 11 55 f2 fp bz gj fj vs1 3x1 hp1 gb1 921
+H 8 p62 7g1 3w v32 55 68 74 x41
+V 6 1s j12 qz1 tb 352 q62
+V 7 r42 fc2 wn z91 1x v9 kj1
+V 8 g71 r42 86 032 412 z82 751 j11
+V 12 p61 wn1 c6 991 hf1 pb2 n31 9c1 gb2 hb1 gn rr
+H 13 gq1 qs xv1 ww pc2 161 3k b02 b7 s02 r1 nc2 n61
+H 6 c51 v72 sw n81 971 gf1
+V 11 qq dn 3r1 bv1 sq tg r6 ht1 161 76 n51
+V 5 dg hc 242 l3 q21
+H 7 5w1 66 n4 cn pl kr1 wx1
+V 8 hh1 k22 dp zw rz1 6x gn 7j
+V 8 np1 w 6w wg1 cf 3b2 j41 3c2
+V 10 sg lw tt1 c5 m7 gg dg pv r2 3b2
+H 10 7n1 jj1 351 212 1w h61 pn1 d31 kf r02
+H 9 nj 242 7p1 lz1 f91 pb 3w sm1 hh1
+H 12 z21 zg qc zn c11 462 p22 f22 v b52 sw l72
+H 13 cb1 t11 rv b5 39 xg 361 t21 0c lj dc2 sw p41
+H 8 kt1 p3 z22 h11 ht1 ct g7 kh1
+H 11 tg1 hc1 2k1 2t gr k6 391 86 002 f11 1f1
+V 8 8j b21 8b1 z02 k22 h91 802 1
+V 7 w4 921 6z ht1 mj1 f22 kq
+V 13 x1 2m1 ln1 4d1 1x1 pn 81 k31 qz1 991 6t1 b5 w62
+V 9 b02 k22 jj1 7j1 jr1 w11 6x cc 802
+H 8 nv tc1 7d jx1 qf z61 f3 qq
+V 12 p21 031 412 qc2 f22 7d 381 fp1 zg 93 74 d82
+H 8 7v 3p q81 kz1 ng 0w1 w11 gt1
+V 8 pr1 wn1 6c h11 d12 0l1 z21 d71
+H 9 k22 861 g7 vz 141 7v1 wz 8j1 qv1
+H 11 kc1 b02 nh wk 1w vc1 13 v1 qc cv1 ww1
+V 11 r1 1n 3g d41 q81 pr1 k11 nf db2 z61 lg1
+H 6 3d g7 3w1 vm1 fc2 3j1
+H 13 662 df1 3b1 621 j 5f1 33 tb2 r02 sq vc1 7g1 771
+V 6 2g1 882 g71 x81 v8 692
+V 6 7d1 c21 ls fr1 0h1 zt1
+H 13 k61 ls1 2x1 jd 2 95 pz b41 b12 nl d21 n82 6k
+V 10 rx vl 25 38 ht1 9c2 6g ss1 fk fz1
+H 10 rm z21 mj1 fw 952 hr1 k92 ls1 cw1 cq1
+V 5 hv 1w hr d62 242
+V 6 2j 6t 55 3r1 kp 141
+V 11 l72 6c tm 9q1 lm 2t pg1 rt bq1 tb1 n12
+H 5 sx1 kc1 1d1 gn 071
+V 9 cn1 s01 p51 921 6c qb2 wg1 022 dm1
+H 13 5j1 55 v52 1b c72 9x1 dn1 4v1 74 38 x61 5v1 631
+H 11 8h1 1c1 6d2 561 p6 m02 7n1 qc 2m1 6t rt
+V 10 tc dj b02 6h v61 8h c62 561 wz zk
+V 11 lj1 751 0l l8 4 rg1 dn 0b1 vc2 zt1 9c
+H 13 7p1 nr g42 tg 3b1 m31 cg1 rw jj1 4x1 rz1 x91 291
+H 6 2c1 0j1 hh1 012 n3 v8
+V 12 w32 jr1 d41 vk n71 pg n3 7q1 391 z21 qb2 6h1
+V 9 332 3g st hp1 4n1 ll1 221 hg1 0h1
+V 9 s 462 3m hz 802 vb1 ls dh1 zn1
+H 5 zw 8n 6w1 sw v32
+V 13 4x rk 391 6d k22 f2 d7 fb1 181 l41 002 zt1 0m1
+V 7 n4 622 9j1 k22 bc2 76 h01
+H 14 w31 481 t62 zt1 672 34 62 tv1 ls1 t11 jt q52 471 rt
+H 12 9c1 6r1 t 9r1 bj 162 tc jp k91 x41 601 412
+H 13 s51 j41 zn 8w lm r82 7d1 4n1 gh1 8j 481 rk 8x
+V 9 p31 t8 3m 8l1 86 xd1 181 n3 x71
+H 6 0c 511 fh kx1 vr pk1
+V 9 8t1 rk x71 g7 901 h61 4c2 jt ww
+V 6 3q 171 xb1 pb 1v1 561
+H 14 f71 361 pw gx1 hn 651 622 471 z91 f22 7h 6c 4t1 h02
+H 10 7x j92 qz 3j1 p41 jr1 rz dd1 ms x71
+H 5 rt tb2 d62 921 7d
+H 12 4f1 hx 1j1 jt zn cm1 6m1 fd1 d7 jj1 jr1 v5
+V 10 wn1 pb m9 8h1 pn1 st dp1 6z 412 471
+V 6 88 gc l3 hg1 tr1 6x
+H 8 t4 1n1 st 4g1 m81 861 dg m7
+H 6 6n1 2 hl1 d51 66 2z1
+V 12 z61 kr1 421 fr1 8b1 ph 7d bj 911 hc h41 d41
+H 9 031 86 hf ll1 d62 ft bz1 pg1 f4
+V 6 h11 4x 291 q32 n51 5w1
+V 5 2x1 mf f v32 6w
+V 7 wf h91 651 qb 8l1 cj 412
+V 13 ld1 pd k61 r21 9x pz1 t9 z61 1 m42 242 db2 3q
+H 7 p81 nj 3n gl 6h vr 7l1
+V 11 242 g71 zg c22 pb2 762 d62 d71 rc1 hk1 wp
+V 5 xf1 kt1 471 d4 m62
+H 11 dd1 7p1 2k zs1 bx1 3q1 692 69 gn d q9
+H 10 wl cv1 j5 8t1 4n r02 hr 102 ht1 gn
+V 12 6c nq n7 s22 mj1 902 c61 f02 d fc2 dp vl
+H 5 b91 jb2 462 gt1 4m1
+V 8 ft1 hg1 rx1 ts1 5x1 011 zl gx
+V 13 mm1 991 d5 k82 pd p7 0s t9 7p1 7q1 qp1 c6 nf
+H 11 t01 qp1 pb2 k82 pr1 fc2 qv1 pc hc qs p41
+V 13 571 3w jb1 5w1 ww z91 1q1 8l1 s5 9k pn1 m9 6m1
+H 13 l51 1b 372 1d2 dp z21 hh1 2c w6 dg 5p1 vb2 3q
+V 14 d 291 991 qq t hh1 13 wx wj1 512 gp1 r1 vb bd1
+V 9 rg1 v1 9d b5 0w1 mn 8b1 1s hk
+H 8 881 452 hh 3b2 311 19 pn1 6c
+H 10 dk 42 jj1 6c 24 fc2 pl vc1 3p1 311
+V 5 pc 4q 3j1 031 qx
